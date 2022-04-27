@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: V1_measure_founders.aux
+The style file: abbrvnat.bst
+Database file #1: biblio.bib
+Warning--empty journal in ghassemiautomated
+Warning--empty journal in othman2020angelistdata
+You've used 25 entries,
+            2773 wiz_defined-function locations,
+            742 strings with 9372 characters,
+and the built_in function-call counts, 11653 in all, are:
+= -- 1048
+> -- 650
+< -- 14
++ -- 220
+- -- 195
+* -- 976
+:= -- 1788
+add.period$ -- 77
+call.type$ -- 25
+change.case$ -- 139
+chr.to.int$ -- 25
+cite$ -- 52
+duplicate$ -- 528
+empty$ -- 970
+format.name$ -- 232
+if$ -- 2424
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 26
+newline$ -- 133
+num.names$ -- 100
+pop$ -- 263
+preamble$ -- 1
+purify$ -- 115
+quote$ -- 0
+skip$ -- 395
+stack$ -- 0
+substring$ -- 502
+swap$ -- 40
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 270
+warning$ -- 2
+while$ -- 111
+width$ -- 0
+write$ -- 327
+(There were 2 warnings)
