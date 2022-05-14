@@ -1,4 +1,4 @@
-\begin{thebibliography}{25}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -42,6 +42,12 @@ A.~Coad and S.~Srhoj.
   prediction of high-growth firms.
 \newblock \emph{Small Business Economics}, 55\penalty0 (3):\penalty0 541--565,
   2020.
+
+\bibitem[Colombo and Grilli(2005)]{colombo2005founders}
+M.~G. Colombo and L.~Grilli.
+\newblock Founders’ human capital and the growth of new technology-based
+  firms: A competence-based view.
+\newblock \emph{Research policy}, 34\penalty0 (6):\penalty0 795--816, 2005.
 
 \bibitem[Crowne(2002)]{crowne2002software}
 M.~Crowne.

@@ -5,45 +5,45 @@ The style file: abbrvnat.bst
 Database file #1: biblio.bib
 Warning--empty journal in ghassemiautomated
 Warning--empty journal in othman2020angelistdata
-You've used 25 entries,
+You've used 26 entries,
             2773 wiz_defined-function locations,
-            742 strings with 9372 characters,
-and the built_in function-call counts, 11653 in all, are:
-= -- 1048
-> -- 650
-< -- 14
-+ -- 220
-- -- 195
-* -- 976
-:= -- 1788
-add.period$ -- 77
-call.type$ -- 25
-change.case$ -- 139
-chr.to.int$ -- 25
-cite$ -- 52
-duplicate$ -- 528
-empty$ -- 970
-format.name$ -- 232
-if$ -- 2424
+            749 strings with 9536 characters,
+and the built_in function-call counts, 12109 in all, are:
+= -- 1092
+> -- 671
+< -- 15
++ -- 227
+- -- 201
+* -- 1013
+:= -- 1856
+add.period$ -- 80
+call.type$ -- 26
+change.case$ -- 144
+chr.to.int$ -- 26
+cite$ -- 54
+duplicate$ -- 548
+empty$ -- 1010
+format.name$ -- 241
+if$ -- 2520
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 26
-newline$ -- 133
-num.names$ -- 100
-pop$ -- 263
+missing$ -- 27
+newline$ -- 138
+num.names$ -- 104
+pop$ -- 271
 preamble$ -- 1
-purify$ -- 115
+purify$ -- 119
 quote$ -- 0
-skip$ -- 395
+skip$ -- 411
 stack$ -- 0
-substring$ -- 502
-swap$ -- 40
+substring$ -- 529
+swap$ -- 41
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 270
+type$ -- 281
 warning$ -- 2
-while$ -- 111
+while$ -- 116
 width$ -- 0
-write$ -- 327
+write$ -- 340
 (There were 2 warnings)
