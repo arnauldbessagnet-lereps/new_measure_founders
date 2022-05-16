@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex V1_measure_founders"] 1652693545 "V1_measure_founders.aux" "V1_measure_founders.bbl" "V1_measure_founders" 1652693546
+["bibtex V1_measure_founders"] 1652693588 "V1_measure_founders.aux" "V1_measure_founders.bbl" "V1_measure_founders" 1652693589
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/natbib/abbrvnat.bst" 1233624470 26532 66bed5cc59495faaa3f9ae9af9fa5e42 ""
-  "V1_measure_founders.aux" 1652693546 3546 1cb94f4fc34f25d78360fab2d0aa957c "pdflatex"
+  "V1_measure_founders.aux" 1652693589 3546 f53bb72e0e4dba03ce6ccb5fa53164af "pdflatex"
   "biblio.bib" 1652519088 41826 0fdca76c967e193281bf28c1372640b7 ""
   (generated)
   "V1_measure_founders.bbl"
   "V1_measure_founders.blg"
-["pdflatex"] 1652693545 "V1_measure_founders.tex" "V1_measure_founders.pdf" "V1_measure_founders" 1652693546
+["pdflatex"] 1652693588 "V1_measure_founders.tex" "V1_measure_founders.pdf" "V1_measure_founders" 1652693589
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -52,9 +52,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1652691713 2826443 5c5fb798b2ae6b0aeb4e977a8866e912 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "V1_measure_founders.aux" 1652693546 3546 1cb94f4fc34f25d78360fab2d0aa957c "pdflatex"
-  "V1_measure_founders.bbl" 1652693545 7587 1ee56c36c38d4f6b7fe6748c9f7a3c0d "bibtex V1_measure_founders"
-  "V1_measure_founders.tex" 1652693542 32806 379f6fdfb085b9c3a20f7db6df512d11 ""
+  "V1_measure_founders.aux" 1652693589 3546 f53bb72e0e4dba03ce6ccb5fa53164af "pdflatex"
+  "V1_measure_founders.bbl" 1652693588 7587 1ee56c36c38d4f6b7fe6748c9f7a3c0d "bibtex V1_measure_founders"
+  "V1_measure_founders.tex" 1652693586 32817 bd2fc97c339100b9b49abbbece4ae8ef ""
   (generated)
   "V1_measure_founders.aux"
   "V1_measure_founders.log"
