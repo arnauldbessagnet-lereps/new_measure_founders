@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -49,6 +49,13 @@ M.~G. Colombo and L.~Grilli.
   firms: A competence-based view.
 \newblock \emph{Research policy}, 34\penalty0 (6):\penalty0 795--816, 2005.
 
+\bibitem[Colombo(2021)]{colombo2021use}
+O.~Colombo.
+\newblock The use of signals in new-venture financing: A review and research
+  agenda.
+\newblock \emph{Journal of Management}, 47\penalty0 (1):\penalty0 237--259,
+  2021.
+
 \bibitem[Crowne(2002)]{crowne2002software}
 M.~Crowne.
 \newblock Why software product startups fail and what to do about it. the
@@ -75,6 +82,29 @@ J.~Huang, O.~Henfridsson, M.~J. Liu, and S.~Newell.
   ventures through digital innovaton.
 \newblock \emph{Mis Quarterly}, 41\penalty0 (1), 2017.
 
+\bibitem[Klein et~al.(2020)Klein, Neitzert, Hartmann-Wendels, and
+  Kraus]{klein2020start}
+M.~Klein, F.~Neitzert, T.~Hartmann-Wendels, and S.~Kraus.
+\newblock Start-up financing in the digital age--a systematic review and
+  comparison of new forms of financing.
+\newblock \emph{The Journal of Entrepreneurial Finance}, 21\penalty0
+  (2):\penalty0 3, 2020.
+
+\bibitem[Klotz et~al.(2014)Klotz, Hmieleski, Bradley, and
+  Busenitz]{klotz2014new}
+A.~C. Klotz, K.~M. Hmieleski, B.~H. Bradley, and L.~W. Busenitz.
+\newblock New venture teams: A review of the literature and roadmap for future
+  research.
+\newblock \emph{Journal of management}, 40\penalty0 (1):\penalty0 226--255,
+  2014.
+
+\bibitem[Knight et~al.(2020)Knight, Greer, and De~Jong]{knight2020start}
+A.~P. Knight, L.~L. Greer, and B.~De~Jong.
+\newblock Start-up teams: A multidimensional conceptualization, integrative
+  review of past research, and future research agenda.
+\newblock \emph{Academy of Management Annals}, 14\penalty0 (1):\penalty0
+  231--266, 2020.
+
 \bibitem[Ko and McKelvie(2018)]{ko2018signaling}
 E.-J. Ko and A.~McKelvie.
 \newblock Signaling for more money: The roles of founders' human capital and
@@ -97,6 +127,13 @@ M.~R. Marvel, J.~L. Davis, and C.~R. Sproul.
 \newblock \emph{Entrepreneurship Theory and Practice}, 40\penalty0
   (3):\penalty0 599--626, 2016.
 
+\bibitem[Nambisan(2017)]{nambisan2017digital}
+S.~Nambisan.
+\newblock Digital entrepreneurship: Toward a digital technology perspective of
+  entrepreneurship.
+\newblock \emph{Entrepreneurship Theory and Practice}, 41\penalty0
+  (6):\penalty0 1029--1055, 2017.
+
 \bibitem[Nanda et~al.(2020)Nanda, Samila, and Sorenson]{nanda2020persistent}
 R.~Nanda, S.~Samila, and O.~Sorenson.
 \newblock The persistent effect of initial success: Evidence from venture
@@ -108,6 +145,12 @@ R.~Nanda, S.~Samila, and O.~Sorenson.
 A.~Othman.
 \newblock What angellist data says about power-law returns in venture capital.
 \newblock 2020.
+
+\bibitem[Pierce and Aguinis(2013)]{pierce2013too}
+J.~R. Pierce and H.~Aguinis.
+\newblock The too-much-of-a-good-thing effect in management.
+\newblock \emph{Journal of Management}, 39\penalty0 (2):\penalty0 313--338,
+  2013.
 
 \bibitem[Pinelli et~al.(2020)Pinelli, Cappa, Franco, Peruffo, and
   Oriani]{pinelli2020too}
@@ -129,6 +172,14 @@ C.~Rapanta and L.~Cantoni.
   skills to others.
 \newblock \emph{Business and Professional Communication Quarterly}, 80\penalty0
   (4):\penalty0 443--459, 2017.
+
+\bibitem[Ratzinger et~al.(2018)Ratzinger, Amess, Greenman, and
+  Mosey]{ratzinger2018impact}
+D.~Ratzinger, K.~Amess, A.~Greenman, and S.~Mosey.
+\newblock The impact of digital start-up founders’ higher education on
+  reaching equity investment milestones.
+\newblock \emph{The Journal of Technology Transfer}, 43\penalty0 (3):\penalty0
+  760--778, 2018.
 
 \bibitem[Reese et~al.(2020)Reese, Rieger, and Engelen]{reese2020should}
 D.~Reese, V.~Rieger, and A.~Engelen.
@@ -155,6 +206,12 @@ J.~Singhal, C.~Rane, Y.~Wadalkar, M.~Joshi, and A.~Deshpande.
 \newblock Data driven analysis for startup investments for venture capitalists.
 \newblock In \emph{2022 International Conference for Advancement in Technology
   (ICONAT)}, pages 1--6. IEEE, 2022.
+
+\bibitem[Spence(1974)]{spence1974market}
+M.~Spence.
+\newblock \emph{Market signaling: Informational transfer in hiring and related
+  screening processes}.
+\newblock Number 143. cambridge: harvard university press, 1974.
 
 \bibitem[Unger et~al.(2011)Unger, Raugrch, Frese, and
   Rosenbusch]{unger2011human}

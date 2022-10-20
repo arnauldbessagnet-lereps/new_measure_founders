@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  29 MAY 2022 20:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  20 OCT 2022 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -184,20 +184,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--20
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (4.28922pt too wide) in paragraph at lines 30--31
+\OT1/cmr/m/n/10.95 Les star-tups num^^Seriques pr^^Sesentent un int^^Ser^et par
+-ti-c-ulier pour la recherche en en-trepreneuriat
+ []
+
 [2
 
-] [3] [4] [5] [6] [7] [8] [9] [10] [11] (./V1_measure_founders.bbl [12
+]
+Overfull \hbox (0.79132pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10.95 em-piriques sont con-fus, et les courants th^^Seoriques con-
+tra-dic-toires soulig-nent l'int^^Ser^et d'ouvrir
+ []
 
-])
-[13] (./V1_measure_founders.aux) ) 
+[3]
+Overfull \hbox (2.1296pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/10.95 pr^^Sesent^^Se ci-dessus pour ar-gu-menter sur le fait que d
+es ^^Sequipes en-trepreneuri-ales qui n'arrivent
+ []
+
+[4] [5] [6] [7]
+
+Package natbib Warning: Citation `teodoridis2019creativity' on page 8 undefined
+ on input line 155.
+
+
+Overfull \hbox (170.90184pt too wide) in paragraph at lines 158--159
+\OT1/cmr/m/n/10.95 and fi-nan-cial suc-cess, and no ef-fect on firm sur-vival. 
+https://www.sciencedirect.com/science/article/abs/pii/S0883902619302691 
+ []
+
+
+Overfull \hbox (33.7326pt too wide) in paragraph at lines 160--162
+\OT1/cmr/m/n/10.95 and New Ven-ture Per-for-mance https://journals.sagepub.com/
+doi/full/10.1177/01492063211029701 
+ []
+
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] (./V1_measure_founders.bbl
+[19
+
+] [20])
+
+Package natbib Warning: There were undefined citations.
+
+[21] (./V1_measure_founders.aux) ) 
 Here is how much of TeX's memory you used:
- 2169 strings out of 480608
- 31688 string characters out of 5903630
- 279142 words of memory out of 5000000
- 18073 multiletter control sequences out of 15000+600000
- 537231 words of font info for 40 fonts, out of 8000000 for 9000
+ 2196 strings out of 480608
+ 32280 string characters out of 5903630
+ 284540 words of memory out of 5000000
+ 18100 multiletter control sequences out of 15000+600000
+ 537539 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,33p,1803b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,33p,2933b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1
@@ -206,10 +244,10 @@ ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-Output written on V1_measure_founders.pdf (13 pages, 145855 bytes).
+Output written on V1_measure_founders.pdf (21 pages, 170914 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
