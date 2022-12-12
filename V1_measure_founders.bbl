@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -104,13 +104,6 @@ A.~C. Klotz, K.~M. Hmieleski, B.~H. Bradley, and L.~W. Busenitz.
   research.
 \newblock \emph{Journal of management}, 40\penalty0 (1):\penalty0 226--255,
   2014.
-
-\bibitem[Knight et~al.(2020)Knight, Greer, and De~Jong]{knight2020start}
-A.~P. Knight, L.~L. Greer, and B.~De~Jong.
-\newblock Start-up teams: A multidimensional conceptualization, integrative
-  review of past research, and future research agenda.
-\newblock \emph{Academy of Management Annals}, 14\penalty0 (1):\penalty0
-  231--266, 2020.
 
 \bibitem[Ko and McKelvie(2018)]{ko2018signaling}
 E.-J. Ko and A.~McKelvie.

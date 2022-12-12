@@ -1,33 +1,34 @@
-\documentclass[11pt]{article}
+\documentclass[12pt]{article}
 \usepackage[a4paper, total={6in, 8in}]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[round]{natbib}
-\usepackage{array}
 \usepackage{graphicx}
+\usepackage{rotating}
+\usepackage{tikz}
+\usepackage{authblk}
+\usepackage{booktabs, tabularx}
+\usepackage{amsmath}
+\usepackage[input-decimal-markers=.]{siunitx}
+\usepackage[english]{babel}
+\usepackage{pdflscape}
+\usepackage{setspace} \doublespacing
+\usepackage{dcolumn,caption}
+\usepackage{array, threeparttable} % to add footnotes to the tables
+\captionsetup{skip=0.333\baselineskip}
+\newcolumntype{d}[1]{D{.}{.}{#1}}
+\newcommand\mc[1]{\multicolumn{1}{@{}c@{}}{#1}} % handy shortcut macro
 
 \begin{document}
 
-\vspace{-2em}
+\title{Which founding teams get funded and why? \\ The effects of skills' level and variety}
 
-\title{
-    \begin{minipage}\linewidth
-        \centering
-        \large{Which teams get funded and why? \\ Effects of the level and variety of skills of entrepreneurial teams on the fundraising of digital firms \vspace{-0.01em}}
-    \end{minipage}
-}
-
-\date{\vspace{-3ex}}
-\author[,1]{\small{Arnauld Bessagnet} \thanks{\scriptsize{Corresponding author.}
-\\ \scriptsize{E-mail : \texttt{arnauld.bessagnet@ut-capitole.fr} (A. Bessagnet)}
-\\ \scriptsize{Postal address : Manufacture des Tabacs, 21 allée de Brienne 31685 Toulouse, France}}}
-
-\affil[1]{\scriptsize{University of Toulouse}}
+\author{Arnauld Bessagnet \\ \footnotesize{LEREPS – Sciences-Po Toulouse, University of Toulouse – France} \\}
 
 \maketitle \vspace{-1,5em}
 
-\begin{abstract} \vspace{0em}
-
-\noindent \footnotesize{La recherche en entrepreneuriat suggère que le capital humain des fondateurs influence leur accès aux ressources, en particulier celles liées au financement. Les chercheurs soutiennent que les investisseurs utilisent plusieurs signaux pour décider dans quelle équipe entrepreneuriale investir. Cette étude introduit la notion de niveau de compétences et de diversité des domaines de compétences des équipes fondatrices. Cette étude examine comment les équipes fondatrices des startups numériques avec différents niveaux de compétences et de diversité de compétences affectent la collecte de fonds. Cette étude empirique utilise une base de données de 606 entreprises numériques, dont 434 ont levé des fonds, tandis que 172 ne l'ont pas fait. Les résultats montrent que [...]. Nous discutons des implications pour les praticiens et les universitaires proposant des théories de l'entrepreneuriat}\\
+\begin{abstract}
+\noindent
+La recherche en entrepreneuriat suggère que le capital humain des fondateurs influence leur accès aux ressources, en particulier celles liées au financement. Les chercheurs soutiennent que les investisseurs utilisent plusieurs signaux pour décider dans quelle équipe entrepreneuriale investir. Cette étude a introduit la notion de niveau de compétences, de diversité des domaines de compétences des équipes fondatrices. Cette étude examine comment les équipes fondatrices des startups numériques avec différents niveaux de compétences et de diversité de compétences affectent la collecte de fonds. Cette étude empirique utilise une base de données de 606 entreprises numériques, dont 434 ont levé des fonds, tandis que 172 ne l'ont pas fait. Les résultats montrent que [...]. Nous discutons des implications pour les praticiens et les universitaires proposant des théories de l'entrepreneuriat \newline
 
 \begin{obeylines}
 \noindent \footnotesize{}{\textbf{Keywords:} Entrepreneurship, Fund Raising, Founders, Competencies}
@@ -35,7 +36,6 @@
 \end{obeylines}
 
 \end{abstract}
-
 
 \clearpage
 \section{Introduction}
@@ -263,6 +263,7 @@ L'aggrégation au niveau de l'équipe
 
 La question : les individus doivent-ils être tous des "jack of all trades" ou des experts ?
 Si l'on compare nos travaux avec ceux de Reese, nous sommes plus précis dans la mesure d'expertis de chaque individu (low ou high) - bien que nous ayons aussi la sharedness
+
 
 1/ Des expériences menées au MIT et au Nigéria ont demandé aux VC, aux foules, aux universitaires et à l'apprentissage automatique de prédire quelles startups gagneraient \citep{ghassemiautomated}. Verdict : aucune technique n'a très bien fonctionné. De plus, des récents travaux économétriques limités sur une population de startups slovènes et croates utilisant des techniques "big data" - même si ce terme est galvaudé - montrent que repérer des high grow firms (HGFs) est un exercice encore challengeant \citep{coad2020catching}. Enfin, google a essayé de montrer des résultats, mais qui ne concernent que les grandes entreprises (bcp de ressources).
 

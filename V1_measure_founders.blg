@@ -3,53 +3,48 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: V1_measure_founders.aux
 The style file: abbrvnat.bst
 Database file #1: biblio.bib
-Illegal end of database file---line 1273 of file biblio.bib
- :   publisher={Academy of Management Briarcliff Manor, NY 10510}
- :                                                               
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "teodoridis2019creativity"
 Warning--empty journal in ghassemiautomated
 Warning--empty journal in othman2020angelistdata
 Warning--there's a number but no series in spence1974market
-You've used 35 entries,
+You've used 34 entries,
             2773 wiz_defined-function locations,
-            801 strings with 11199 characters,
-and the built_in function-call counts, 16260 in all, are:
-= -- 1470
-> -- 890
+            794 strings with 10978 characters,
+and the built_in function-call counts, 15754 in all, are:
+= -- 1424
+> -- 860
 < -- 21
-+ -- 302
-- -- 267
-* -- 1371
-:= -- 2493
-add.period$ -- 108
-call.type$ -- 35
-change.case$ -- 192
-chr.to.int$ -- 35
-cite$ -- 73
-duplicate$ -- 732
-empty$ -- 1364
-format.name$ -- 320
-if$ -- 3380
++ -- 292
+- -- 258
+* -- 1323
+:= -- 2416
+add.period$ -- 105
+call.type$ -- 34
+change.case$ -- 186
+chr.to.int$ -- 34
+cite$ -- 71
+duplicate$ -- 711
+empty$ -- 1323
+format.name$ -- 310
+if$ -- 3276
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 37
-newline$ -- 183
-num.names$ -- 140
-pop$ -- 357
+missing$ -- 36
+newline$ -- 178
+num.names$ -- 136
+pop$ -- 347
 preamble$ -- 1
-purify$ -- 159
+purify$ -- 154
 quote$ -- 0
-skip$ -- 543
+skip$ -- 528
 stack$ -- 0
-substring$ -- 737
-swap$ -- 51
+substring$ -- 710
+swap$ -- 50
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 375
+type$ -- 364
 warning$ -- 3
-while$ -- 158
+while$ -- 153
 width$ -- 0
-write$ -- 457
-(There was 1 error message)
+write$ -- 444
+(There were 3 warnings)
