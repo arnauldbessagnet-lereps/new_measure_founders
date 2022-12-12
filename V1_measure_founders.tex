@@ -7,43 +7,65 @@
 
 \begin{document}
 
-\title{Which teams get funded and why? \\ Effects of founders' skills level and variety AND social ties overlaps \\ in new digital ventures}
+\vspace{-2em}
 
-\author{Arnauld Bessagnet \\ \footnotesize{LEREPS – Sciences-Po Toulouse, University of Toulouse – France} \\}
+\title{
+    \begin{minipage}\linewidth
+        \centering
+        \large{Which teams get funded and why? \\ Effects of the level and variety of skills of entrepreneurial teams on the fundraising of digital firms \vspace{-0.01em}}
+    \end{minipage}
+}
 
-\date{\today}
-\maketitle
+\date{\vspace{-3ex}}
+\author[,1]{\small{Arnauld Bessagnet} \thanks{\scriptsize{Corresponding author.}
+\\ \scriptsize{E-mail : \texttt{arnauld.bessagnet@ut-capitole.fr} (A. Bessagnet)}
+\\ \scriptsize{Postal address : Manufacture des Tabacs, 21 allée de Brienne 31685 Toulouse, France}}}
 
-\begin{abstract}
-\noindent
-Entrepreneurship research suggests that founders' "human capital" influence their access to resources, especially those related to financing. Yet, while scholars maintain that investors use signals to decide on which entreprneeurial team to invest, this study introduced the concept of "niveau des compétences" and "diversité des compétences" of founding teams. These two concepts refer to [...]. This study examines how digital startup founders' [...] affect fundraising. This empirical study uses a database of 606 digital companies, of which 434 have raised funds, while 172 have not. The results show that [...]. We discuss the implications for practitioners and scholars offering theories of entrepreneurship \newline
+\affil[1]{\scriptsize{University of Toulouse}}
 
-\noindent \textbf{Keywords:} Entrepreneurship, Fund Raising, Founders, Competencies \newline
-*
-\noindent \textbf{JEL Classification:} L22, L26, L85
+\maketitle \vspace{-1,5em}
+
+\begin{abstract} \vspace{0em}
+
+\noindent \footnotesize{La recherche en entrepreneuriat suggère que le capital humain des fondateurs influence leur accès aux ressources, en particulier celles liées au financement. Les chercheurs soutiennent que les investisseurs utilisent plusieurs signaux pour décider dans quelle équipe entrepreneuriale investir. Cette étude introduit la notion de niveau de compétences et de diversité des domaines de compétences des équipes fondatrices. Cette étude examine comment les équipes fondatrices des startups numériques avec différents niveaux de compétences et de diversité de compétences affectent la collecte de fonds. Cette étude empirique utilise une base de données de 606 entreprises numériques, dont 434 ont levé des fonds, tandis que 172 ne l'ont pas fait. Les résultats montrent que [...]. Nous discutons des implications pour les praticiens et les universitaires proposant des théories de l'entrepreneuriat}\\
+
+\begin{obeylines}
+\noindent \footnotesize{}{\textbf{Keywords:} Entrepreneurship, Fund Raising, Founders, Competencies}
+\noindent \footnotesize{\textbf{JEL Classification:} L22, L26, L85}
+\end{obeylines}
 
 \end{abstract}
+
 
 \clearpage
 \section{Introduction}
 
-Les startups numériques présentent un intérêt particulier pour la recherche en entrepreneuriat car non seulement elles sont une source d'innovation et de développement technologique mais en plus elles se distinguent des autres startups par la flexibilité et la vitesse avec laquelle elles peuvent traverser les cycles entrepreneuriaux, ou pivoter leur modèle économique \citep{nambisan2017digital}. A ce titre, les chercheurs comme les décideurs politiques sont soucieux de comprendre leur émergence, leur croissances et leurs mécanismes de financement \citep{klein2020start}. Cet article participe à cet agenda de recherche en examinant la relation complexe qui lie le capital humain des fondateurs à l'émergence des startups, observée ici en termes d'accession à une levée de fonds en phase early stage \citep{pinelli2020too}.
+Quelles équipes sont financées, et pourquoi le sont-elles, sont des questions récurrentes dans les littératures économiques et entrepreneuriales contemporaines, car un des élements fondamentaux pour l'émergence et la croissance des startups digitales est l'accès à des financements externes \citep{ratzinger2018impact, klein2020start}. Obtenir un financement externe est un enjeu crucial, notamment en phase de early stage, parce que les équipes fondatrices manquent souvent de cash-flow pour payer les coûts up-front qui aident à développer leurs activités par la suite \citep{ratzinger2018impact}. Dans les phases de early stage, les fondateurs de startups digitales se focalisent principalement sur la recherche d'une idée exploitable se traduisant par le choix d'un business modèle numérique, celui-ci étant dépendant de l'environnement de la technologie de l’information et de la communication sous-jacent dans lequel il s'inscrit (e.g. informatique cloud, systèmes d’analyse de données, communautés en-ligne, réseau social, imprimantes 3D, etc) \citep{nambisan2017digital}. Du point de vue d'un investisseur, s'engager financièrement dans une startup en phase de early-stage est très risqué, notamment du à l'absence de track-record de l'équipe fondatrice ou encore l'inexistance de résultats financiers passés. Dès lors, pour effectuer leur due dilligence qui vise a limiter les asymétries d'informations, les investisseurs se basent sur les signaux à leur disposition afin de prendre une décision d'investissement \citep{colombo2021use, ko2018signaling, spence1974market}.
 
-Un des élements fondamentaux pour l'émergence et la croissance des startups digitales est l'accès à des financements externes \citep{klein2020start}. Obtenir un financement externe est un enjeu crucial, notamment en phase de early stage, notamment parce que les équipes fondatrices manquent souvent de cash-flow pour payer les coûts up-front pour développer leurs activités par la suite \citep{ratzinger2018impact}. Dans les phases de early stage, les fondateurs de startups digitales se focalisent principalement sur la recherche d'une idée exploitable se traduisant par le choix d'un business modèle numérique, celui-ci étant dépendant de l'environnement de la technologie de l’information et de la communication sous-jacent dans lequel il s'inscrit (e.g. informatique cloud, systèmes d’analyse de données, communautés en-ligne, réseau social, imprimantes 3D, etc) \citep{nambisan2017digital}. La capacité des fondateurs à lever des capitaux est essentielle pour les startups technologiques et innovantes visant une croissance rapide et à grande échelle (Kotha et George, 2012 ; Rosenbusch et al., 2013) [Sean Wise, 2022]. Du point de vue d'un investisseur, s'engager financièrement dans une startup en phase de early-stage est très risqué, notamment du à l'absence de track-record de l'équipe fondatrice ou encore l'inexistance de résultats financiers passés. Dès lors, pour effectuer leur due dilligence qui vise a limiter les asymétries d'informations, les investisseurs se basent sur les signaux à leur disposition afin de prendre une décision d'investissement \citep{colombo2021use, ko2018signaling, spence1974market}. Parmi les signaux immédiatement disponibles pour l'investisseur comme par exemple l'environnement ou encore la stratégie d'entreprise, les investisseurs utilisent le capital humain des fondateurs comme prédicteur de futur succès des équipes fondatrices, la plupart des initiatives entrepreneuriales étant menées par des groupes d'individus plutôt que par des individus isolés \citep{roure1990predictors, klotz2014new}. Si la littérature en entrepreneuriat a longtemps utilisé des mesures assez grossières en termes d'investissements en capital humain (e.g. le nombre d'années d'éducation, la spécialité du domaine d'éducation, le nombre d'années d'expériences), ce n'est que récemment que les "outcome of human capital", c'est à dire les skills, abilities and knowledge, ont été considérées comme des indicateurs plus fiables \citep{unger2011human, marvel2016human}. A ce titre, les "outcome of human capital" sont considérés comme plus fiables que les mesures de "investment in human capital", car ils sont des moyens plus précis et plus directs pour mesurer le capital humain des équipes fondatrices \citep{unger2011human}.
+Parmi les signaux immédiatement disponibles pour l'investisseur comme par exemple l'environnement ou encore la stratégie d'entreprise, les investisseurs utilisent le capital humain des fondateurs comme prédicteur de futur succès des équipes fondatrices. Le focus sur l'équipes entrepreneuriale des fondateur vient du fait que la plupart des initiatives entrepreneuriales sont menées par des groupes d'individus plutôt que par des individus isolés \citep{roure1990predictors, klotz2014new}. A ce titre, la théorie organisationnelle propose que le capital humain des équipes fondatrices affecte les processus et le fonctionnement de l'entreprise à travers l'imprinting effect. Ce concept basique décrit comment le passé affecte le présent et, dans le cas des équipes entrepreneuriales et leur accession à des ressources supplémentaires, comment des caractéristiques de capital humain continuent de persister pour faciliter l'accession à une levée de fonds. Selon la théorie du signal, les investisseur utilisent les données relatives au capital humain des équipes fondatrices car ce sont des informations directes et faciles d'accès qui procurent des informations permettant de rationaliser une le risqueà travers une approche d'espérance de gain.
 
-Cependant de nombreuses études empiriques montrent qu'une équipe dotée de plus de compétences n'accède pas nécessairement à de meilleurs résultats financiers ou plus de succès \citep{pierce2013too}. De manière générale, ces études empiriques se concentrent sur une des deux dimensions à la fois des compétences des équipes fondatrices, c'est à dire soit le "niveau de leur compétences" (faisant généralement référence à la dichotomie novice vs. expert, et souvent mesuré opérationnellement par le nombre d'années d'expériences), soit la "la diversité de leurs compétences" (faisant généralement référence à la dichotomie spécialiste vs. généraliste, et souvent mesuré opérationnellement par l'index de Hirchman ou de Blau, ça dépend de la configuration souhaitée). Bien que ces résultats apportent de nouvelles pistes de réfléxions à plusieurs égards [REF], ces études empiriques sont problématiques pour deux raisons. Non seulement certains niveaux et variétés de compétences ne se valent pas dans tous les contextes (notamment le contexte digital par opposition au contexte industriel, est régit par d'autres spécificités sociales et technologiques), mais en plus aucune de ces deux dimensions ne semble échapper aux trade-off inévitables liés à l'obtention des ressources financières (lever des fonds), et donc au succès d'une entreprise sur son marché.
+Cependant, en complément de ces considérations théoriques, de nombreuses études empiriques montrent qu'une équipe dotée de plus de capitaux humains n'accède pas nécessairement à de meilleurs résultats financiers ou a plus de succès \citep{pierce2013too}. D'un côté des études empiriques ont montré que l'accession d'un certain niveau de compétences influence les équipes fondatrices à poursuivre leur entreprise dans le temps [REF], aide par effet de signal les équipes fondatrices à lever des fonds auprès des investisseurs [REF], stimule la détection de nouvelles opportunités entrepreneuriales [REF] et augmente les chances de construire des produits commercialement viables [REF]. Cependant, d'autres études questionnent la rationnalité d'investir du temps dans des années d'expériences professionnelles et d'éducation pour obtenir des compétences, car il semblerait que les compétences ne soient pas des facteurs décisifs dans le succès d'une entreprise n'aident pas forcément à lever des fonds auprès d'investisseurs. D'un autre côté, les études concernant la variété des compétences dans les équipes entrepreneuriales ont trouvé des résultats mixtes. En effet, ces études ont montré que la variété des compétences au sein des équipes entrepreneuriales aide résoudre des problèmes complexes [REF], aider à surmonter les environnement tumultueux [REF], à détecter plus opportunités business [REF] et aide également à lever des fonds auprès d'investisseurs [REF]. Cependant, d'autres études montrent qu'il exite un trade-off sur la diversité des compétences car trop de diversité peut mener à des coûts de transactions élevés comme par exemple des conflit et des tensions au sein d'une équipe fondatrice à cause des distances cognitives trop élevées entre fondateurs [REF]. En résumé, bien que le niveau et la diversité des compétences des équipes fondatrices semblent avoir des implications importantes pour le succès des entreprises dans leurs phases early stage, les résultats empiriques sont confus, et les courants théoriques contradictoires soulignent l'intérêt d'ouvrir de nouvelles recherches sur quels niveaux et quelles variétés des compétences des équipes fondatrices supportent ou réduisent le succès des entreprises, notamment dans un contexte numérique. Une manière de répondre à cet appel est d'examiner les configurations internes des équipes à travers les compétences, skills et knowledges des entreprises numériques.
 
-Heterogeneity at a deep team-level (skill, knowledge, value) vs. surface level (age, ethnicity)
+Nous explorons ces questions dans cet article et analysons l'effet de différentes combinaisons de niveaux et diversités de compétences et skills d'équipes entrepreneuriales qui sont critiques pour l'acquisition de early fundings dans des start-up numériques. Nous basons notre étude empirique sur un échantillon de 606 entreprises numériques basées dans la grande métropole de Paris, utilisant un business modèle Software-as-a-Service (SaaS) pour des contextes de marché "business to business", dont 434 ont levé des fonds, alors que 172 ne l'ont pas fait, durant la période 2010-2020. Nous utilisons Crunchbase et Linkedin comme principales sources de données pour récupérer les compétences des équipes fondatrices, ainsi que les événements de financement (date, montant). En ligne avec nos arguments, nous avons trouvé que les investisseurs font des investissements plus grands sur des équipes entrepreneuriales dont les fondateurs ont soit un haut niveau de compétence, soit un haut niveau de diversité des compétences, mais pas les deux. Quand les équipes entrepreneuriales sont dotées de hauts niveaux de compétences dans des compétences similaires, i.e. quand la diversité de leur compétence est faible, ils obtiennent plus de ressources financières. Cependant, quand leurs compétences sont diversifiées, un haut niveau de compétence parmis les équipes entrepreneuriales a un effet négatif sur le montant et la rapidité des fonds que les fondateurs sont capables d'obtenir auprès d'investisseurs.
 
-D'un côté des études empiriques ont montré que l'accession d'un certain niveau de compétences influence les équipes fondatrices à poursuivre leur entreprise dans le temps [REF], aide par effet de signal les équipes fondatrices à lever des fonds auprès des investisseurs [REF], stimule la détection de nouvelles opportunités entrepreneuriales [REF] et augmente les chances de construire des produits commercialement viables [REF]. Cependant, d'autres études questionnent la rationnalité d'investir du temps dans des années d'expériences professionnelles et d'éducation pour obtenir des compétences, car il semblerait que les compétences ne soient pas des facteurs décisifs dans le succès d'une entreprise et, dans notre cas, n'aide pas forcément à lever des fonds auprès d'investisseurs.
+Nos résultats procurent plusieurs contributions à la littérature en entrepreneuriat. Si la littérature en entrepreneuriat a longtemps utilisé des mesures assez grossières en termes d'investissements en capital humain (e.g. le nombre d'années d'éducation, la spécialité du domaine d'éducation, le nombre d'années d'expériences), ce n'est que récemment que les "outcome of human capital", c'est à dire les skills, abilities and knowledge, ont été considérées \citep{marvel2016human}. A ce titre, les "outcome of human capital" sont considérés comme plus fiables que les mesures de "investment in human capital", car ils sont des moyens plus précis et plus directs pour mesurer le capital humain des équipes fondatrices \citep{unger2011human}. De manière générale, les études empiriques se sont concentrées sur une des deux dimensions à la fois des compétences des équipes fondatrices, c'est à dire soit le "niveau de leur compétences" (faisant généralement référence à la dichotomie novice vs. expert, et souvent mesuré opérationnellement par le nombre d'années d'expériences), soit la "la diversité de leurs compétences" (faisant généralement référence à la dichotomie spécialiste vs. généraliste, et souvent mesuré opérationnellement par l'index de Hirchman ou d'Index de Blau) \citep{harrison2007s}. Bien que des résultats aient apporté de nouvelles pistes de réfléxions à plusieurs égards [REF], ces études empiriques sont problématiques pour deux raisons. Non seulement certains niveaux et variétés de compétences ne se valent pas dans tous les contextes (le contexte digital par opposition au contexte industriel, est régit par d'autres spécificités sociales et technologiques), mais en plus aucune de ces deux dimensions prises séparement ne semble échapper aux trade-off inévitables liés à l'obtention des ressources financières (lever des fonds), et donc au succès d'une entreprise sur son marché.
 
-D'un autre côté, les études concernant la variété des compétences dans les équipes entrepreneuriales ont trouvé des résultats mixtes. En effet, ces études ont montré que la variété des compétences au sein des équipes entrepreneuriales aide résoudre des problèmes complexes [REF], aider à surmonter les environnement tumultueux [REF], à détecter plus opportunités business [REF] et aide également à lever des fonds auprès d'investisseurs [REF]. Cependant, d'autres études montrent qu'il y a un trade-off sur la diversité des compétences car trop de diversité peut mener à des coûts de transactions élevés comme par exemple des conflit et des tensions au sein d'une équipe fondatrice à cause des distances cognitives trop élevées entre fondateurs [REF].
+\section{Effects of the level and variety of skills of entrepreneurial teams on the fundraising of digital firms}
 
-En résumé, bien que les compétences des équipes fondatrices semblent avoir des implications importantes pour le succès des entreprises dans leurs phases early stage, les résultats empiriques sont confus, et les courants théoriques contradictoires soulignent l'intérêt d'ouvrir de nouvelles recherches sur comment et quand les compétences des équipes fondatrices supportent ou réduisent le succès des entreprises, notamment dans un contexte numérique. Une manière de répondre à cet appel est d'examiner les configurations internes des équipes à travers les compétences, skills et knowledges des entreprises numériques.
+Le thème du financement des jeunes entreprises numériques a été largement abondé ces dernières années par les chercheurs en entrepreneuriat \citep{klein2020start}, et la littérature nous indique qu'il existe des caractéristiques importantes encastrées dans les individus fondateurs d'entreprises qui expliquent la réussite de l'accession aux financements externes \citep{pinelli2020too, reese2020should}. Le focus sur l'équipe entrepreneuriale est primordial car si beaucoup de recherches ont focalisé leur attention sur le pedigree d'un seul fondateur d'une entreprise, la littérature reconnait désormais que les initiatives entrepreneuriales sont le fruit d'une équipe (Klotz et al., 2014), et leur succès multifactoriel \citep{roure1990predictors}.
 
-En reprenant le fil de l'importance des signaux pour les investisseurs, nous explorons dans cet article l'effet de différentes combinaisons de compétences et skills d'équipes entrepreneuriales qui sont critiques pour l'acquisition de early fundings dans des start-up numériques. Quelles équipes sont financées, et pourquoi le sont-elles, sont des questions récurrentes dans les littératures économiques et entrepreneuriales \citep{knight2020start}. Le thème du financement des jeunes entreprises numériques a été largement abondé ces dernières années par les chercheurs \citep{klein2020start}, et la littérature nous indique qu'il existe des caractéristiques importantes encastrées dans les individus fondateurs d'entreprises qui expliquent la réussite de l'accession aux financements externes \citep{pinelli2020too, reese2020should}. Le focus sur l'équipe est primordial car si beaucoup de recherches ont focalisé leur attention sur le pedigree d'un seul fondateur d'une entreprise, la littérature reconnait désormais que les initiatives entrepreneuriales sont le fruit d'une équipe (Klotz et al., 2014), et leur succès multifactoriel \citep{roure1990predictors}.
+La capacité des équipes fondatrices à lever des capitaux est essentielle pour les startups (numériques) technologiques et innovantes visant une croissance rapide et à grande échelle (Kotha et George, 2012 ; Rosenbusch et al., 2013) [see Sean Wise, 2022]. Dans les phases très early stage, les équipes fondatrices manquent souvent de cash-flow pour payer les coûts up-front qui aident à développer leurs activités par la suite \citep{ratzinger2018impact} et les fondateurs de startups digitales se focalisent principalement sur la recherche d'une idée exploitable se traduisant par le choix d'un business modèle numérique. Par conséquent, ils doivent montrer aux investisseurs qu'ils ont un potentiel de développement futur assez fort aux investisseurs pour attirer leur attention et espérer un accès à plus de ressources financières. Le problème de ces entreprises est qu'elles manquent de track-record à montrer aux investisseurs
 
-----
+Concrètement, investisseurs, qu'ils soient "business angels" ou "venture capitalists", i.e. ceux qui apportent les financements externes, utilisent le capital humain et le capital social des équipes entrepreneuriales comme critères d'évaluations afin de déterminer si oui ou non investir dans une entreprise, et si oui à quelle hauteur. A ce titre, plusieurs méta-analyses montrent que dans la plupart des cas, les variables de capital social et de capital humain sont positivement associées aux variables de performances des entreprises. En suivant la théorie du signal (Spence, 1973), le capital humain et le capital social sont tous les deux utilisés par les investisseurs comme potentiels modérateurs des asymétries d'information (Akerlof, 1970). Ces asymétries sont d'autant plus fortes que les projets entrepreneuriaux jeunes sont risqués car non seulement ils ont plus de chance d'échouer
+
+Dans ce contexte, nous suggérons que les équipes
+
+
+
+
+
+
+
 
 Managerial and Entrpereneurship studies focus on that dilemma, but do not agree. The large gap between management and entrepreneurship research in this stream helps motivate the current study.
 
@@ -51,18 +73,21 @@ Une équipe avec un niveau de compétences : positif et négatif impact on levé
 Une équipe avec une variété de compétences : positif et négatif impact on levée de fonds - effet signal
 [EXPLICATION DU TRADE OFF]
 
+\citep{pinelli2020too} ont travaillé sur le niveau d'étude, le type d'étude et levée de fonds
+\citep{ratzinger2018impact} ont travaillé sur le niveau d'étude et levée de fonds
+
 1/ A startup team is considered to be more functionally diverse if individuals are equally distributed over all the different functional categories (Blau, 1977), which are groups with common backgrounds.
 
 A/ For example, a startup team’s functional diversity signals the presence of complementary expertise (Ensley and Hmieleski, 2005; Der Foo et al., 2005; Joshi and Roh, 2009), and greater cognitive resources at their disposal (Bunderson and Sutcliffe, 2002). For example, there are some indications that startups with founders of varying competencies use different entry strategies (Chaganti et al., 2008), internationalization strategies (Jiang et al., 2020), and innovation strategies (Brixy, Brunow and D’Ambrosio, 2020). (Wise)
 
 B/ However, a startup team’s functional diversity signals might produce conflict.
 
-2/
----
+
+Heterogeneity at a deep team-level (skill, knowledge, value) vs. surface level (age, ethnicity)
+
 
 Prenant acte du fait que peu d'études se sont focalisées sur à la fois le niveau et la variété des compétences des fondateurs et leur effet sur l'équipe entrepreneuriale et ses dynamiques en phase de early stage, nous nous demandons dans cette étude s'il est possible d'atteindre un équilibre efficient dans l'équipe entrepreneuriale afin d'obtenir une levée des fonds auprès d'un investisseur, et si cet équilibre est influencé par les différentes configurations des niveaux de compétences des équipes entrepreneuriales et de la diversité des compétences au sein des équipes. Dès lors, puisque notre objectif est d'exlorer un dataset avec une question de recherche en tête plutôt que tester des hypothèses préconçues, nous proposons la question suivante : Est-ce que la variété des compétences et le niveau des compétences des équipes fondatrices de startup influence la possibilité et le montant levé auprès d'invstisseurs ? Nous avons sélectionné la capacité de lever des fonds et son montant car ce sont des mesures observables basées sur la potentielle future valorisation d'une startup.
 
-Pour répondre à cette question, nous nous basons sur la discussion de la littérature présenté ci-dessus pour argumenter sur le fait que des équipes entrepreneuriales qui n'arrivent pas à lever des fonds peut être liée au fait d'un déséquilibre des compétences. On teste cette théorie sur un échantillon de 606 entreprises numériques basées dans la grande métropole de Paris, utilisant un business modèle Software-as-a-Service (SaaS) pour des contextes de marché "business to business", dont 434 ont levé des fonds, alors que 172 ne l'ont pas fait, durant la période 2010-2020. Nous utilisons Crunchbase et Linkedin comme principales sources de données pour récupérer les compétences des équipes fondatrices, ainsi que les événements de financement (date, montant). En ligne avec nos arguments, nous avons trouvé que les investisseurs font des investissements plus grands sur des équipes entrepreneuriales dont les fondateurs ont soit un haut niveau de compétence, soit un haut niveau de diversité des compétences, mais pas les deux. Quand les équipes entrepreneuriales sont dotées de hauts niveaux de compétences dans des compétences similaires, i.e. quand la diversité de leur compétence est faible, ils obtiennent plus de ressources financières. Cependant, quand leurs compétences sont diversifiées, un haut niveau de compétence parmis les équipes entrepreneuriales a un effet négatif sur le montant et la rapidité des fonds que les fondateurs sont capables d'obtenir auprès d'investisseurs.
 
 Cet article offre une perspective théorique et empirique qui viennent contribuer à la littérature en entrepreneuriat et en entrepreneuriat numérique. Nous essayons de comprendre pourquoi les résultats passés sur les compétences des fondateurs étaient divergents en montrant l'importance du niveau des compétences et de la diversité des compétences au sein d'une équipe entrpereneuriale, dans l'objectif d'acquérir des financements privés. Les résultats empiriques de la recherche en entrepreneuriat ont mis l'accent sur les compétences des fondateurs comme le coeur du réacteur de leur capacité à innover. Cependant, ces recherches n'ont pas permis de montrer comment le niveau de compétence et la diversité de compétence au sein d'une équipe entrepreneuriale peuvent affecter le succès d'une firme. Notamment, [MENTION DU TRADE OFF]. Cet article tente de prendre le contrepied de ce qui a été fait jusqu'à maintenant en analysant ces deux mesures communément, et met au centre de la recherche la dynamique des équipes entreprneuriales dans des phases de early stage pour identifier dans quelle mesure le niveau de compétence et sa diversité sont importants pour les dynamiques d'intéractions entre mles fondateurs et sont des antécédents au bon fonctionnnement de la structure. Par conséquent, cet article propose une amélioration de la perspective selon laquelle les compétences peuvent améliorer la collecte de fond dans le premier round. Ces perspectives sont importantes à la fois pour les chercheurs dans l'académie, mais aussi pour les entrepreneurs qui veulent lever des fonds, mais aussi aux policymakers étant donné l'importance des startups comme moteur de développement économique
 
@@ -93,20 +118,12 @@ Cet article offre une perspective théorique et empirique qui viennent contribue
 From TRANSFERABLE SKILLS? FOUNDERS AS VENTURE CAPITALISTS
 %Gompers, Kovner, Lerner, and Scharfstein (2010) show that founders who started acompany and successfully exited it have much higher success rates on subsequent startups than dofounders who failed in their prior venture or founders in their first company. In fact, founders whohave failed in the past have lower success rates than first time entrepreneurs. This would seem to indicate that skill, at least in part, contributes to the performance of founders
 
-
-
-
-
-
-
 Controls : Le capital humain et le capital social sont tous les deux utilisés par les investisseurs comme potentiels modérateurs des asymétries d'information intrinsèque à ce type d'activité économique (Akerlof, 1970). Le capital social influence aussi l'accession aux financements externes. On va donc mettre du controle. La diversité visible concerne la race, l'ethnicité, l'age, le genre. La diversité non visible concerne l'éducation, les compétences, les abilités, les skills, les valeurs, l'attitude (deep) - on va mettre aussi des controles
-
 
 Parmi tant de facteurs comme l'environnement ou la stratégie de l'entreprise, le capital humain des équipes est connu pour aider à identifier et à exploiter des opportunités de financement, tandis que le capital social est reconnu pour influencer également l'accession à des investissements externes, et ceci à travers plusieurs mécanismes. Elle reconnait par ailleurs que le capital humain et le capital social des fondateurs diffèrent de celui d'une équipe fondatrice, différenciant ainsi la somme du capital d'une équipe de la répartition des agrégats au sein de l'équipe (Reese, 2022).
 
 A ce titre, la plupart des études empiriques prouvent qu'il existe bien une relation entre le capital social et le capital humain d'une équipe, et la performance d'une entreprise. Les explications et les mécanismes du capital social et humain sont largement documentés par la littérature. D'une part, le capital humain des fondateurs (Beckman 2007; Ko 2018), i.e., compétences et expériences enchâssés dans et utilisées par les individus (Becker 1964), influence la performance des entreprises par plusieurs leviers (Amason 2006; Eisenhardt and Schoonhoven 1990; Chandler 2005). D'autre part, le capital social (Shane et Cable, 2002) peut jouer un rôle de relation interpersonnelle entre un membre de l'équipe et un investisseur, ou encore aide à trouver des financements par l'accession à des partenaires de haut niveau.
 
-Concrètement, les "business angels" et les "venture capitalists", i.e. ceux qui apportent les financements externes, utilisent le capital humain, le capital social comme critères d'évaluations afin de déterminer si oui ou non investir dans une entreprise, et si oui à quelle hauteur. A ce titre, ils ont bien raison car plusieurs méta-analyses montrent que dans la plupart des cas, les variables de capital social et de capital humain sont positivement associées aux variables de performances des entreprises. En suivant la théorie du signal (Spence, 1973), le capital humain et le capital social sont tous les deux utilisés par les investisseurs comme potentiels modérateurs des asymétries d'information (Akerlof, 1970). Ces asymétries sont d'autant plus fortes que les projets entrepreneuriaux jeunes sont risqués car non seulement ils ont plus de chance d'échouer (survie 5 ans REF), mais les équipes ont peu de track-record à montrer aux investisseurs à part leur pedigree personnels. Les investisseurs se basent donc sur ces signaux à leur disposition pour prendre une décision d'investissement (Colombo, 2021; Ko, 2018). Cependant, les résultats de ces estimations dans la littérature restent à ce jour nuancés et le processus par lequel le capital humain, le capital social influence l'accession aux financements externes aux startups digitales remains underexplored.
 
 Une première raison à cela est le manque de recherche à multi niveaux quand il s'agit du capital humain. Les résultats de Marvel (2016) et de Ployhart and Moliterno (2011) illustrent un fort biais vers le niveau individuel alors que l'équipe fondatrice et les potentielles synergies entre les individus sont rarement prises en compte. Une deuxième raison est le contexte d'étude diffère selon les échantillons et les populations étudiées. Certains analysent des industries allant du textile aux high-tech, et autres utilisent des échantillons comprenant des entrepreneurs étudiants. Dès lors, il est difficile d'analyser cette relation sans tenir compte des conditions et des circonstances qui sont pertinentes pour un événement ou une situation - faisant ainsi du contexte de l'étude une considération importante. Une troisième raison est le manque de granularité des variables indépendantes utilisées et des construits des variables de capital humain et social. Non seulement il y a une difficulté d'intégrer aux études empiriques plusieurs signaux à la fois ainsi que leurs interactions, mais les étudent s'arrêtent souvent aux mesures d'années d'éducation, d'expériences entrepreneuriales ou encore d'expériences professionnelles. Dit autrement, la plupart des recherches se sont appuyées sur des mesures assez grossières, et il existe donc un besoin évident d'approches plus fines et granulaires qui reflètent une variance plus précise des aspects du capital humain et social.
 
@@ -127,19 +144,6 @@ Deuxièmement, les startups sont aujourd'hui une source proéminente d'innovatio
 
 Troisièmement, on va parler de numérique. Les entrepreneurs du numérique ont des spécificités qui leur sont singulières. Précisément, selon Nambisan, les startups numériques sont les startups technologiques dont le modèle économique dépend d’une ou plusieurs technologie de l’information et de la communication (e.g. informatique cloud, systèmes d’analyse de données, communautés en-ligne, réseau social, imprimantes 3D, etc). (Nambisan, 2017). Les startups numériques se distinguent des autres startups par la flexibilité et la vitesse avec laquelle elles peuvent traverser les cycles entrepreneuriaux, pivoter sur leur modèle économique, favoriser un entrepreneuriat plus collectif, et ce grâce aux outils numériques, au point où nous pouvons considérer qu’elles invitent à un traitement unique lorsque nous nous intéressons aux entrepreneurs qui les dirigent et les décisions que prennent ces derniers (Nambisan, 2017).
 
-
-
-
-\section{Theoretical framework and reaserch model}
-
-Le financement des startups numériques \citep{klein2020start}
-
-
-\section{Hypothesis}
-
-L'utilisation des relations (Linkedin study)
-
-\section{Methodology}
 
 
 
@@ -166,14 +170,13 @@ L'utilisation des relations (Linkedin study)
 
 Does new venture team power hierarchy enhance or impair new venture performance? A contingency perspective
 
-\textit{For example, \citep{teodoridis2019creativity} the pace of change in a knowledge domain shapes the relative return from being a specialist or a generalist. They show generalist scientists performed best when the pace of change was slower and their ability to draw from diverse knowledge domains was an advantage in the field, but specialists gained advantage when the pace of change increased and their deeper expertise allowed them to use new knowledge created at the knowledge frontier}
+%\textit{For example, \citep{teodoridis2019creativity} the pace of change in a knowledge domain shapes the relative return from being a specialist or a generalist. They show generalist scientists performed best when the pace of change was slower and their ability to draw from diverse knowledge domains was an advantage in the field, but specialists gained advantage when the pace of change increased and their deeper expertise allowed them to use new knowledge created at the knowledge frontier}
 
 
-age has a negative effect on growth, but a positive effect on subjective success, firm size, and financial success, and no effect on firm survival. https://www.sciencedirect.com/science/article/abs/pii/S0883902619302691
+%age has a negative effect on growth, but a positive effect on subjective success, firm size, and financial success, and no effect on firm survival. https://www.sciencedirect.com/science/article/abs/pii/S0883902619302691
 
-Founders’ Prior Shared International Experience, Time to First Foreign Market Entry, and New Venture Performance
+%Founders’ Prior Shared International Experience, Time to First Foreign Market Entry, and New Venture Performance
 https://journals.sagepub.com/doi/full/10.1177/01492063211029701
-
 
 
 Backing the Right Jockey? Founder Traits and Early-Stage Funding in Digital Entrepreneurship.
@@ -181,9 +184,7 @@ We conclude that founders with many years of professional experience and with fe
 
 Similarly, digital startups with founders who were educated in foreign countries and with educational degrees from premier institutes attracted higher early-stage investment
 
-
 Using theories of human capital and signaling, we study whether and how human capital signals of education, professional experience and personality traits of the founders influence early-stage venture capital (VC) investment in digital startups.
-
 
 Since 508 : opportunity to isolate the mechanisms that matter most for teams in that region. Because, as explained earlier, the dy- namics of composition may be quite different for teams that lie in other regions, sampling teams from a broad swath of the landscape could inject noise into a targeted investigation. By conducting narrow research within a single region of the landscape, researchers can develop precise theoretical models for that par- ticular region and formulate practical recommenda- tions that are relevant for start-up team leaders and members whose ventures lie within that region.
 
@@ -228,9 +229,6 @@ La question du niveau et de la complémentarité du "capital humain et capital s
 voir aussi l'étude : Experienced entrepreneurial founders, organizational capital, and venture capital funding
 First, prior founding experience (especially financially successful experience) increases both the likelihood of VC funding via a direct tie and venture valuation. Second, founders’ ability to recruit executives via their own social network (as opposed to the VC’s network) is positively associated with venture valuation. Finally, in the emerging (at the time) Internet industry, founding teams with a doctoral degree holder are more likely to be funded via a direct VC tie and receive higher valuations, suggesting a signaling effect.
 
-modif lqazzz
-
-
 Cependant, il y a peu de preuves à propos de l'articulation entre les outcomes du capital humain en termes de skill overlapness et intensité des founders et capacité à lever des fonds. En effet, peu ont utilisé les outcomes du capital humain comme mesures innovantes \citep{marvel2016human}
 
 digital environment implies and includes
@@ -239,15 +237,13 @@ From : DIGITAL SKILLS IN ENTERPRISES ACCORDING TO THE EUROPEAN DIGITAL ENTREPREN
 - Unlike traditional entrepreneurship, digital entrepreneurship uses computerized technologies as the tools for communication within their businesses, and outside, between the organization and its key interested parties (DeSanctis and Monge, 1999; Hafzieh, Akhavan and Eshragian 2011, pp. 269).
 - The spread of digital technology is having an effect on the changing employment structure, leading to the automation of routine tasks and the creation of different types of occupations, consequently leading to the need for a workforce with developed ICT skills in almost every sector of the economy, in order to take advantage of technological innovation. Moreover, this trend requires that every citizen should possess at least basic digital skills with the purpose of learning, working, and participating in contemporary society (European Commission, 2018b). Moreover, the employees have to be prepared for new changes in production and service delivery processes in their professional life to avoid job loss or end up in a low-paying job.
 
-
- au niveau de l'équipe des fondateurs, faisant part de 1/ la capacité à partager des compétences et 2/ en mesurant les degrés. En d'autres termes, étant donné la valeur du capital humain pour les nouvelles firmes, cette précision dans le dégré et la précision fait remonter la question "comment des équipes fondatrices dotées de compétences différentes et avec plusieurs niveaux d'expertises influencent la collecte de fonds"
+au niveau de l'équipe des fondateurs, faisant part de 1/ la capacité à partager des compétences et 2/ en mesurant les degrés. En d'autres termes, étant donné la valeur du capital humain pour les nouvelles firmes, cette précision dans le dégré et la précision fait remonter la question "comment des équipes fondatrices dotées de compétences différentes et avec plusieurs niveaux d'expertises influencent la collecte de fonds"
 
 Pour adresser cette questions, nous présentons le concept de founders skill overlapness - Définiton et implications.
 
 Nous validons empiriquement notre modèle de recherche dérivé de la théorie en utilisant un échantiloon de 600 startups numériques Françaises fondées entre 2010 et 2018 - 1500 individus représentant 800 équipes entrepreneuriales. Nous utilisons comme variable indépendante l'outcome du human capital mesuré par Linkedin endorsement skills \citet{rapanta2017linkedin} et la levée de fond comme indépendante. Nous avons trouvé que x, y et z.
 
 Nous contribuons à la recherche car nous étudions précisémment les attributs des équipes et des individus qui les composent, qui contribuent à leur succès à court terme et à leur succès et survie à plus long terme. Plus précisément, nous étudions les entreprises en démarrage à un stade précoce et suivons leur survie et capacité à lever des fonds auprès d'investisseurs pendant x années, le tout dans un contexte spécifique de resource-scarce et digital, considéré comme trigger et enabler (Nambisan 2015).
-
 
 
 \section{Background théorique}
@@ -265,12 +261,8 @@ Entrepreneurial competencies include knowledge and skills required to search and
 
 L'aggrégation au niveau de l'équipe
 
-
-
-
 La question : les individus doivent-ils être tous des "jack of all trades" ou des experts ?
 Si l'on compare nos travaux avec ceux de Reese, nous sommes plus précis dans la mesure d'expertis de chaque individu (low ou high) - bien que nous ayons aussi la sharedness
-
 
 1/ Des expériences menées au MIT et au Nigéria ont demandé aux VC, aux foules, aux universitaires et à l'apprentissage automatique de prédire quelles startups gagneraient \citep{ghassemiautomated}. Verdict : aucune technique n'a très bien fonctionné. De plus, des récents travaux économétriques limités sur une population de startups slovènes et croates utilisant des techniques "big data" - même si ce terme est galvaudé - montrent que repérer des high grow firms (HGFs) est un exercice encore challengeant \citep{coad2020catching}. Enfin, google a essayé de montrer des résultats, mais qui ne concernent que les grandes entreprises (bcp de ressources).
 
@@ -362,6 +354,8 @@ Firm control
 
 Firm has patent
 
+
+%Les startups numériques présentent un intérêt particulier pour la recherche en entrepreneuriat car non seulement elles sont une source d'innovation et de développement technologique mais en plus elles se distinguent des autres startups par la flexibilité et la vitesse avec laquelle elles peuvent traverser les cycles entrepreneuriaux, ou pivoter leur modèle économique \citep{nambisan2017digital}. A ce titre, les chercheurs comme les décideurs politiques sont soucieux de comprendre leur émergence, leur croissances et notamment leurs mécanismes de financement \citep{klein2020start}. Cet article participe à cet agenda de recherche en examinant la relation complexe qui lie le capital humain des fondateurs à l'émergence des startups, observée ici en termes d'accession à une levée de fonds en phase early stage.
 
 
 %References section - bibliography

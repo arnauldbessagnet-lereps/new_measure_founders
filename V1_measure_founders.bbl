@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -74,6 +74,13 @@ E.~A. Hanushek.
 \newblock Will more higher education improve economic growth?
 \newblock \emph{Oxford Review of Economic Policy}, 32\penalty0 (4):\penalty0
   538--552, 2016.
+
+\bibitem[Harrison and Klein(2007)]{harrison2007s}
+D.~A. Harrison and K.~J. Klein.
+\newblock What's the difference? diversity constructs as separation, variety,
+  or disparity in organizations.
+\newblock \emph{Academy of management review}, 32\penalty0 (4):\penalty0
+  1199--1228, 2007.
 
 \bibitem[Huang et~al.(2017)Huang, Henfridsson, Liu, and
   Newell]{huang2017growing}
