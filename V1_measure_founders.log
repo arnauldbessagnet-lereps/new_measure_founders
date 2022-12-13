@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  12 DEC 2022 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  13 DEC 2022 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -717,56 +717,161 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3
+Overfull \hbox (14.44202pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/12 Quelles ^^Sequipes sont fi-nanc^^Sees, et pourquoi le sont-el
+les, sont des ques-tions r^^Securrentes
+ []
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-[18] [19] [20] [21] [22] [23] [24]
-Overfull \hbox (7.44441pt too wide) in paragraph at lines 274--275
+[2
+
+] [3] [4]
+Overfull \hbox (2.00465pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/12 Le th^^Reme du fi-nance-ment des star-tups num^^Seriques a ^^Se
+t^^Se large-ment abond^^Se ces derni^^Reres
+ []
+
+[5] [6]
+Overfull \hbox (12.09204pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/12 aug-mente la dis-po-si-tion per-son-nelle ^^Ra en-trepren-dre e
+t leur com-porte-ment en-trepreneurial
+ []
+
+
+Overfull \hbox (7.9143pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/12 l'accumulation de comp^^Setences et de savoirs est un pr^^Se-re
+quis pour plus d'apprentissages
+ []
+
+[7]
+Overfull \hbox (2.36575pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/12 en-trepreneuri-ale aug-mente le sig-nal posi-tif en-vers les in
+-vestis-seurs qui veu-lent s'engager
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+[8]
+
+Package natbib Warning: Citation `subramanian2022backing' on page 9 undefined o
+n input line 71.
+
+
+Overfull \hbox (6.57405pt too wide) in paragraph at lines 71--72
+[]\OT1/cmr/m/n/12 En pre-mier lieu, dans les phases early stage pr^^Secisemment
+, les ^^Sequipes en-trepreneuri-
+ []
+
+[9]
+Overfull \hbox (2.75325pt too wide) in paragraph at lines 73--74
+\OT1/cmr/m/n/12 d'information de leurs in-vestisse-ments (Ak-erlof, 1970), mais
+ in-flu-ence ^^Segalement l'acc^^Res
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+LaTeX Warning: Reference `table1' on page 11 undefined on input line 82.
+
+
+LaTeX Warning: Reference `table2' on page 11 undefined on input line 82.
+
+
+LaTeX Warning: Reference `table3' on page 11 undefined on input line 82.
+
+
+Overfull \hbox (1.25604pt too wide) in paragraph at lines 82--83
+\OT1/cmr/m/n/12 fundrais-ing ac-tiv-i-ties, and gran-u-lar in-for-ma-tion on th
+e com-pe-ten-cies of en-trepreneurial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+[11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+LaTeX Warning: Reference `table4' on page 13 undefined on input line 93.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+[13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
+Overfull \hbox (7.44441pt too wide) in paragraph at lines 238--239
 \OT1/cmr/m/n/12 "back-ground af-fil-i-a-tions". Elle mon-tre que les af-fil-i-a
 -tions ant^^Serieures partag^^Sees ("shared
  []
 
-[25]
-Overfull \hbox (6.08655pt too wide) in paragraph at lines 276--277
-\OT1/cmr/m/n/12 ^^Sequipes en-trepreneuri-ales, no-tam-ment l'impact du niveau 
-d'^^Seducation et l'h^^Set^^Serogeneit^^Se
- []
-
-
-Overfull \hbox (5.82544pt too wide) in paragraph at lines 282--284
+[24]
+Overfull \hbox (5.82544pt too wide) in paragraph at lines 244--246
 \OT1/cmr/m/n/12 ments (skills, knowl-edge, abilit^^Ses, d^^Seriv^^Sees de l'^^S
 education et de l'exp^^Serience) et rarement
  []
 
-[26] [27]
-Overfull \hbox (12.51427pt too wide) in paragraph at lines 294--295
+[25] [26]
+Overfull \hbox (12.51427pt too wide) in paragraph at lines 256--257
 []\OT1/cmr/m/n/12 Dans notre ^^Setude em-pirique, c'est sur ces derniers ^^Sel^
 ^Sements "in-di-vidu-els" et "^^Sequipes"
  []
 
-[28] [29] [30] [31] [32] [33] [34] (./V1_measure_founders.bbl [35
+[27] [28] [29] [30] [31] [32] [33] [34] [35]
+Overfull \hbox (2.03937pt too wide) in paragraph at lines 313--314
+\OT1/cmr/m/n/12 trepreneuriat car non seule-ment elles sont une source d'innova
+tion et de d^^Seveloppement
+ []
 
-] [36]
-[37] [38]) [39] (./V1_measure_founders.aux) ) 
+[36] (./V1_measure_founders.bbl [37] [38] [39] [40] [41])
+
+Package natbib Warning: There were undefined citations.
+
+[42] (./V1_measure_founders.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 17897 strings out of 480608
- 371567 string characters out of 5903630
- 597770 words of memory out of 5000000
- 33480 multiletter control sequences out of 15000+600000
- 539626 words of font info for 50 fonts, out of 8000000 for 9000
+ 17949 strings out of 480608
+ 372699 string characters out of 5903630
+ 599315 words of memory out of 5000000
+ 33530 multiletter control sequences out of 15000+600000
+ 542103 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,60p,2576b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmti12.pfb>
-Output written on V1_measure_founders.pdf (39 pages, 170476 bytes).
+ 60i,8n,60p,2338b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on V1_measure_founders.pdf (42 pages, 202494 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 180 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

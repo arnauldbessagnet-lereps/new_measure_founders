@@ -1,9 +1,16 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{46}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Acs et~al.(2021)Acs, Song, Szerb, Audretsch, and
+  Komlosi]{acs2021evolution}
+Z.~J. Acs, A.~K. Song, L.~Szerb, D.~B. Audretsch, and E.~Komlosi.
+\newblock The evolution of the global digital platform economy: 1971--2021.
+\newblock \emph{Small Business Economics}, 57\penalty0 (4):\penalty0
+  1629--1659, 2021.
 
 \bibitem[Aldrich and Ruef(2018)]{aldrich2018unicorns}
 H.~E. Aldrich and M.~Ruef.
@@ -17,6 +24,13 @@ E.~Autio.
 \newblock Entrepreneurship support in europe: Trends and challenges for eu
   policy.
 \newblock \emph{London, England: Imperial College Business School}, 2016.
+
+\bibitem[Becherer and Maurer(1999)]{becherer1999proactive}
+R.~C. Becherer and J.~G. Maurer.
+\newblock The proactive personality disposition and entrepreneurial behavior
+  among small company presidents.
+\newblock \emph{Journal of small business management}, 37\penalty0
+  (1):\penalty0 28, 1999.
 
 \bibitem[Becker(1964)]{becker1964human}
 G.~S. Becker.
@@ -35,6 +49,12 @@ F.~Bertoni, M.~G. Colombo, and L.~Grilli.
 \newblock Venture capital financing and the growth of high-tech start-ups:
   Disentangling treatment from selection effects.
 \newblock \emph{Research policy}, 40\penalty0 (7):\penalty0 1028--1043, 2011.
+
+\bibitem[Chandler and Hanks(1994)]{chandler1994founder}
+G.~N. Chandler and S.~H. Hanks.
+\newblock Founder competence, the environment, and venture performance.
+\newblock \emph{Entrepreneurship theory and practice}, 18\penalty0
+  (3):\penalty0 77--89, 1994.
 
 \bibitem[Coad and Srhoj(2020)]{coad2020catching}
 A.~Coad and S.~Srhoj.
@@ -69,6 +89,12 @@ M.~M. Ghassemi, C.~Song, and T.~Alhanai.
   fate of startup ventures.
 \newblock 2015.
 
+\bibitem[Hambrick and Mason(1984)]{hambrick1984upper}
+D.~C. Hambrick and P.~A. Mason.
+\newblock Upper echelons: The organization as a reflection of its top managers.
+\newblock \emph{Academy of management review}, 9\penalty0 (2):\penalty0
+  193--206, 1984.
+
 \bibitem[Hanushek(2016)]{hanushek2016will}
 E.~A. Hanushek.
 \newblock Will more higher education improve economic growth?
@@ -82,12 +108,25 @@ D.~A. Harrison and K.~J. Klein.
 \newblock \emph{Academy of management review}, 32\penalty0 (4):\penalty0
   1199--1228, 2007.
 
+\bibitem[Hong and Page(2001)]{hong2001problem}
+L.~Hong and S.~E. Page.
+\newblock Problem solving by heterogeneous agents.
+\newblock \emph{Journal of economic theory}, 97\penalty0 (1):\penalty0
+  123--163, 2001.
+
 \bibitem[Huang et~al.(2017)Huang, Henfridsson, Liu, and
   Newell]{huang2017growing}
 J.~Huang, O.~Henfridsson, M.~J. Liu, and S.~Newell.
 \newblock Growing on steroids: Rapidly scaling the user base of digital
   ventures through digital innovaton.
 \newblock \emph{Mis Quarterly}, 41\penalty0 (1), 2017.
+
+\bibitem[Hunter(1986)]{hunter1986cognitive}
+J.~E. Hunter.
+\newblock Cognitive ability, cognitive aptitudes, job knowledge, and job
+  performance.
+\newblock \emph{Journal of vocational behavior}, 29\penalty0 (3):\penalty0
+  340--362, 1986.
 
 \bibitem[Klein et~al.(2020)Klein, Neitzert, Hartmann-Wendels, and
   Kraus]{klein2020start}
@@ -113,12 +152,26 @@ E.-J. Ko and A.~McKelvie.
 \newblock \emph{Journal of Business Venturing}, 33\penalty0 (4):\penalty0
   438--454, 2018.
 
+\bibitem[Luoma et~al.(2018)Luoma, Laatikainen, and
+  Mazhelis]{luoma2018exploring}
+E.~Luoma, G.~Laatikainen, and O.~Mazhelis.
+\newblock Exploring business model changes in software-as-a-service firms.
+\newblock In \emph{International Conference of Software Business}, pages
+  108--124. Springer, 2018.
+
 \bibitem[Malyy et~al.(2021)Malyy, Tekic, and Podladchikova]{malyy2021value}
 M.~Malyy, Z.~Tekic, and T.~Podladchikova.
 \newblock The value of big data for analyzing growth dynamics of
   technology-based new ventures.
 \newblock \emph{Technological Forecasting and Social Change}, 169:\penalty0
   120794, 2021.
+
+\bibitem[Marvel and Lumpkin(2007)]{marvel2007technology}
+M.~R. Marvel and G.~T. Lumpkin.
+\newblock Technology entrepreneurs’ human capital and its effects on
+  innovation radicalness.
+\newblock \emph{Entrepreneurship Theory and Practice}, 31\penalty0
+  (6):\penalty0 807--828, 2007.
 
 \bibitem[Marvel et~al.(2016)Marvel, Davis, and Sproul]{marvel2016human}
 M.~R. Marvel, J.~L. Davis, and C.~R. Sproul.
@@ -140,6 +193,12 @@ R.~Nanda, S.~Samila, and O.~Sorenson.
   capital.
 \newblock \emph{Journal of Financial Economics}, 137\penalty0 (1):\penalty0
   231--248, 2020.
+
+\bibitem[Nooteboom et~al.(2007)Nooteboom, Van~Haverbeke, Duysters, Gilsing, and
+  Van~den Oord]{nooteboom2007optimal}
+B.~Nooteboom, W.~Van~Haverbeke, G.~Duysters, V.~Gilsing, and A.~Van~den Oord.
+\newblock Optimal cognitive distance and absorptive capacity.
+\newblock \emph{Research policy}, 36\penalty0 (7):\penalty0 1016--1034, 2007.
 
 \bibitem[Othman(2020)]{othman2020angelistdata}
 A.~Othman.
@@ -200,6 +259,18 @@ J.~B. Roure and M.~A. Maidique.
 \newblock \emph{Journal of business venturing}, 1\penalty0 (3):\penalty0
   295--306, 1986.
 
+\bibitem[Shane(2000)]{shane2000prior}
+S.~Shane.
+\newblock Prior knowledge and the discovery of entrepreneurial opportunities.
+\newblock \emph{Organization science}, 11\penalty0 (4):\penalty0 448--469,
+  2000.
+
+\bibitem[Shane and Venkataraman(2000)]{shane2000promise}
+S.~Shane and S.~Venkataraman.
+\newblock The promise of entrepreneurship as a field of research.
+\newblock \emph{Academy of management review}, 25\penalty0 (1):\penalty0
+  217--226, 2000.
+
 \bibitem[Singhal et~al.(2022)Singhal, Rane, Wadalkar, Joshi, and
   Deshpande]{singhal2022data}
 J.~Singhal, C.~Rane, Y.~Wadalkar, M.~Joshi, and A.~Deshpande.
@@ -232,5 +303,12 @@ Y.~Zheng, M.~L. Devaughn, and M.~Zellmer-Bruhn.
   performance of newly founded banks.
 \newblock \emph{Strategic Management Journal}, 37\penalty0 (12):\penalty0
   2503--2520, 2016.
+
+\bibitem[Zhou and Rosini(2015)]{zhou2015entrepreneurial}
+W.~Zhou and E.~Rosini.
+\newblock Entrepreneurial team diversity and performance: Toward an integrated
+  model.
+\newblock \emph{Entrepreneurship Research Journal}, 5\penalty0 (1):\penalty0
+  31--60, 2015.
 
 \end{thebibliography}

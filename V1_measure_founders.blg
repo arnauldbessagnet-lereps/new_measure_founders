@@ -3,48 +3,49 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: V1_measure_founders.aux
 The style file: abbrvnat.bst
 Database file #1: biblio.bib
+Warning--I didn't find a database entry for "subramanian2022backing"
 Warning--empty journal in ghassemiautomated
 Warning--empty journal in othman2020angelistdata
 Warning--there's a number but no series in spence1974market
-You've used 34 entries,
+You've used 46 entries,
             2773 wiz_defined-function locations,
-            794 strings with 10978 characters,
-and the built_in function-call counts, 15754 in all, are:
-= -- 1424
-> -- 860
-< -- 21
-+ -- 292
-- -- 258
-* -- 1323
-:= -- 2416
-add.period$ -- 105
-call.type$ -- 34
-change.case$ -- 186
-chr.to.int$ -- 34
-cite$ -- 71
-duplicate$ -- 711
-empty$ -- 1323
-format.name$ -- 310
-if$ -- 3276
+            868 strings with 12980 characters,
+and the built_in function-call counts, 21518 in all, are:
+= -- 1966
+> -- 1153
+< -- 31
++ -- 391
+- -- 345
+* -- 1801
+:= -- 3280
+add.period$ -- 142
+call.type$ -- 46
+change.case$ -- 251
+chr.to.int$ -- 46
+cite$ -- 95
+duplicate$ -- 966
+empty$ -- 1814
+format.name$ -- 423
+if$ -- 4490
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 36
-newline$ -- 178
-num.names$ -- 136
-pop$ -- 347
+missing$ -- 48
+newline$ -- 238
+num.names$ -- 184
+pop$ -- 460
 preamble$ -- 1
-purify$ -- 154
+purify$ -- 207
 quote$ -- 0
-skip$ -- 528
+skip$ -- 726
 stack$ -- 0
-substring$ -- 710
-swap$ -- 50
-text.length$ -- 4
+substring$ -- 1022
+swap$ -- 72
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 364
+type$ -- 496
 warning$ -- 3
-while$ -- 153
+while$ -- 213
 width$ -- 0
-write$ -- 444
-(There were 3 warnings)
+write$ -- 601
+(There were 4 warnings)
