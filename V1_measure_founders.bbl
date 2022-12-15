@@ -1,4 +1,4 @@
-\begin{thebibliography}{46}
+\begin{thebibliography}{72}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -12,12 +12,27 @@ Z.~J. Acs, A.~K. Song, L.~Szerb, D.~B. Audretsch, and E.~Komlosi.
 \newblock \emph{Small Business Economics}, 57\penalty0 (4):\penalty0
   1629--1659, 2021.
 
+\bibitem[Aggarwal et~al.(2015)Aggarwal, Kryscynski, and
+  Singh]{aggarwal2015evaluating}
+R.~Aggarwal, D.~Kryscynski, and H.~Singh.
+\newblock Evaluating venture technical competence in venture capitalist
+  investment decisions.
+\newblock \emph{Management Science}, 61\penalty0 (11):\penalty0 2685--2706,
+  2015.
+
 \bibitem[Aldrich and Ruef(2018)]{aldrich2018unicorns}
 H.~E. Aldrich and M.~Ruef.
 \newblock Unicorns, gazelles, and other distractions on the way to
   understanding real entrepreneurship in the united states.
 \newblock \emph{Academy of Management Perspectives}, 32\penalty0 (4):\penalty0
   458--472, 2018.
+
+\bibitem[Audretsch and Lehmann(2004)]{audretsch2004financing}
+D.~B. Audretsch and E.~E. Lehmann.
+\newblock Financing high-tech growth: the role of banks and venture
+  capitalists.
+\newblock \emph{Schmalenbach Business Review}, 56\penalty0 (4):\penalty0
+  340--357, 2004.
 
 \bibitem[Autio(2016)]{autio2016entrepreneurship}
 E.~Autio.
@@ -37,6 +52,12 @@ G.~S. Becker.
 \newblock \emph{Human capital}.
 \newblock University of Chicago press, 1964.
 
+\bibitem[Becker-Blease and Sohl(2015)]{becker2015new}
+J.~R. Becker-Blease and J.~E. Sohl.
+\newblock New venture legitimacy: the conditions for angel investors.
+\newblock \emph{Small Business Economics}, 45\penalty0 (4):\penalty0 735--749,
+  2015.
+
 \bibitem[Beckman et~al.(2007)Beckman, Burton, and O'Reilly]{beckman2007early}
 C.~M. Beckman, M.~D. Burton, and C.~O'Reilly.
 \newblock Early teams: The impact of team demography on vc financing and going
@@ -44,11 +65,25 @@ C.~M. Beckman, M.~D. Burton, and C.~O'Reilly.
 \newblock \emph{Journal of business venturing}, 22\penalty0 (2):\penalty0
   147--173, 2007.
 
+\bibitem[Bell(2007)]{bell2007deep}
+S.~T. Bell.
+\newblock Deep-level composition variables as predictors of team performance: a
+  meta-analysis.
+\newblock \emph{Journal of applied psychology}, 92\penalty0 (3):\penalty0 595,
+  2007.
+
 \bibitem[Bertoni et~al.(2011)Bertoni, Colombo, and Grilli]{bertoni2011venture}
 F.~Bertoni, M.~G. Colombo, and L.~Grilli.
 \newblock Venture capital financing and the growth of high-tech start-ups:
   Disentangling treatment from selection effects.
 \newblock \emph{Research policy}, 40\penalty0 (7):\penalty0 1028--1043, 2011.
+
+\bibitem[Bunderson and Sutcliffe(2002)]{bunderson2002comparing}
+J.~S. Bunderson and K.~M. Sutcliffe.
+\newblock Comparing alternative conceptualizations of functional diversity in
+  management teams: Process and performance effects.
+\newblock \emph{Academy of management journal}, 45\penalty0 (5):\penalty0
+  875--893, 2002.
 
 \bibitem[Chandler and Hanks(1994)]{chandler1994founder}
 G.~N. Chandler and S.~H. Hanks.
@@ -83,23 +118,53 @@ M.~Crowne.
 \newblock In \emph{IEEE International Engineering Management Conference},
   volume~1, pages 338--343. IEEE, 2002.
 
+\bibitem[Delmar et~al.(2003)Delmar, Davidsson, and Gartner]{delmar2003arriving}
+F.~Delmar, P.~Davidsson, and W.~B. Gartner.
+\newblock Arriving at the high-growth firm.
+\newblock \emph{Journal of business venturing}, 18\penalty0 (2):\penalty0
+  189--216, 2003.
+
+\bibitem[Eddleston et~al.(2016)Eddleston, Ladge, Mitteness, and
+  Balachandra]{eddleston2016you}
+K.~A. Eddleston, J.~J. Ladge, C.~Mitteness, and L.~Balachandra.
+\newblock Do you see what i see? signaling effects of gender and firm
+  characteristics on financing entrepreneurial ventures.
+\newblock \emph{Entrepreneurship Theory and Practice}, 40\penalty0
+  (3):\penalty0 489--514, 2016.
+
+\bibitem[Franke et~al.(2008)Franke, Gruber, Harhoff, and
+  Henkel]{franke2008venture}
+N.~Franke, M.~Gruber, D.~Harhoff, and J.~Henkel.
+\newblock Venture capitalists’ evaluations of start--up teams: Trade--offs,
+  knock--out criteria, and the impact of vc experience.
+\newblock \emph{Entrepreneurship Theory and Practice}, 32\penalty0
+  (3):\penalty0 459--483, 2008.
+
 \bibitem[Ghassemi et~al.(2015)Ghassemi, Song, and Alhanai]{ghassemiautomated}
 M.~M. Ghassemi, C.~Song, and T.~Alhanai.
 \newblock The automated venture capitalist: Data and methods to predict the
   fate of startup ventures.
 \newblock 2015.
 
-\bibitem[Hambrick and Mason(1984)]{hambrick1984upper}
-D.~C. Hambrick and P.~A. Mason.
-\newblock Upper echelons: The organization as a reflection of its top managers.
-\newblock \emph{Academy of management review}, 9\penalty0 (2):\penalty0
-  193--206, 1984.
+\bibitem[Gompers et~al.(2010)Gompers, Kovner, Lerner, and
+  Scharfstein]{gompers2010performance}
+P.~Gompers, A.~Kovner, J.~Lerner, and D.~Scharfstein.
+\newblock Performance persistence in entrepreneurship.
+\newblock \emph{Journal of financial economics}, 96\penalty0 (1):\penalty0
+  18--32, 2010.
 
-\bibitem[Hanushek(2016)]{hanushek2016will}
-E.~A. Hanushek.
-\newblock Will more higher education improve economic growth?
-\newblock \emph{Oxford Review of Economic Policy}, 32\penalty0 (4):\penalty0
-  538--552, 2016.
+\bibitem[Grillitsch and Schubert(2021)]{grillitsch2021does}
+M.~Grillitsch and T.~Schubert.
+\newblock Does the timing of integrating new skills affect start-up growth?
+\newblock \emph{Strategic Entrepreneurship Journal}, 15\penalty0 (4):\penalty0
+  647--684, 2021.
+
+\bibitem[Hallen(2008)]{hallen2008causes}
+B.~L. Hallen.
+\newblock The causes and consequences of the initial network positions of new
+  organizations: From whom do entrepreneurs receive investments?
+\newblock \emph{Administrative Science Quarterly}, 53\penalty0 (4):\penalty0
+  685--718, 2008.
 
 \bibitem[Harrison and Klein(2007)]{harrison2007s}
 D.~A. Harrison and K.~J. Klein.
@@ -108,11 +173,23 @@ D.~A. Harrison and K.~J. Klein.
 \newblock \emph{Academy of management review}, 32\penalty0 (4):\penalty0
   1199--1228, 2007.
 
+\bibitem[Hoenig and Henkel(2015)]{hoenig2015quality}
+D.~Hoenig and J.~Henkel.
+\newblock Quality signals? the role of patents, alliances, and team experience
+  in venture capital financing.
+\newblock \emph{Research Policy}, 44\penalty0 (5):\penalty0 1049--1064, 2015.
+
 \bibitem[Hong and Page(2001)]{hong2001problem}
 L.~Hong and S.~E. Page.
 \newblock Problem solving by heterogeneous agents.
 \newblock \emph{Journal of economic theory}, 97\penalty0 (1):\penalty0
   123--163, 2001.
+
+\bibitem[Hsu(2007)]{hsu2007experienced}
+D.~H. Hsu.
+\newblock Experienced entrepreneurial founders, organizational capital, and
+  venture capital funding.
+\newblock \emph{Research policy}, 36\penalty0 (5):\penalty0 722--741, 2007.
 
 \bibitem[Huang et~al.(2017)Huang, Henfridsson, Liu, and
   Newell]{huang2017growing}
@@ -121,12 +198,27 @@ J.~Huang, O.~Henfridsson, M.~J. Liu, and S.~Newell.
   ventures through digital innovaton.
 \newblock \emph{Mis Quarterly}, 41\penalty0 (1), 2017.
 
+\bibitem[Huang and Knight(2017)]{huang2017resources}
+L.~Huang and A.~P. Knight.
+\newblock Resources and relationships in entrepreneurship: An exchange theory
+  of the development and effects of the entrepreneur-investor relationship.
+\newblock \emph{Academy of Management Review}, 42\penalty0 (1):\penalty0
+  80--102, 2017.
+
 \bibitem[Hunter(1986)]{hunter1986cognitive}
 J.~E. Hunter.
 \newblock Cognitive ability, cognitive aptitudes, job knowledge, and job
   performance.
 \newblock \emph{Journal of vocational behavior}, 29\penalty0 (3):\penalty0
   340--362, 1986.
+
+\bibitem[Jin et~al.(2017)Jin, Madison, Kraiczy, Kellermanns, Crook, and
+  Xi]{jin2017entrepreneurial}
+L.~Jin, K.~Madison, N.~D. Kraiczy, F.~W. Kellermanns, T.~R. Crook, and J.~Xi.
+\newblock Entrepreneurial team composition characteristics and new venture
+  performance: A meta--analysis.
+\newblock \emph{Entrepreneurship Theory and Practice}, 41\penalty0
+  (5):\penalty0 743--771, 2017.
 
 \bibitem[Klein et~al.(2020)Klein, Neitzert, Hartmann-Wendels, and
   Kraus]{klein2020start}
@@ -144,6 +236,13 @@ A.~C. Klotz, K.~M. Hmieleski, B.~H. Bradley, and L.~W. Busenitz.
 \newblock \emph{Journal of management}, 40\penalty0 (1):\penalty0 226--255,
   2014.
 
+\bibitem[Knight et~al.(2020)Knight, Greer, and De~Jong]{knight2020start}
+A.~P. Knight, L.~L. Greer, and B.~De~Jong.
+\newblock Start-up teams: A multidimensional conceptualization, integrative
+  review of past research, and future research agenda.
+\newblock \emph{Academy of Management Annals}, 14\penalty0 (1):\penalty0
+  231--266, 2020.
+
 \bibitem[Ko and McKelvie(2018)]{ko2018signaling}
 E.-J. Ko and A.~McKelvie.
 \newblock Signaling for more money: The roles of founders' human capital and
@@ -152,19 +251,19 @@ E.-J. Ko and A.~McKelvie.
 \newblock \emph{Journal of Business Venturing}, 33\penalty0 (4):\penalty0
   438--454, 2018.
 
+\bibitem[Kruskal(1956)]{kruskal1956shortest}
+J.~B. Kruskal.
+\newblock On the shortest spanning subtree of a graph and the traveling
+  salesman problem.
+\newblock \emph{Proceedings of the American Mathematical society}, 7\penalty0
+  (1):\penalty0 48--50, 1956.
+
 \bibitem[Luoma et~al.(2018)Luoma, Laatikainen, and
   Mazhelis]{luoma2018exploring}
 E.~Luoma, G.~Laatikainen, and O.~Mazhelis.
 \newblock Exploring business model changes in software-as-a-service firms.
 \newblock In \emph{International Conference of Software Business}, pages
   108--124. Springer, 2018.
-
-\bibitem[Malyy et~al.(2021)Malyy, Tekic, and Podladchikova]{malyy2021value}
-M.~Malyy, Z.~Tekic, and T.~Podladchikova.
-\newblock The value of big data for analyzing growth dynamics of
-  technology-based new ventures.
-\newblock \emph{Technological Forecasting and Social Change}, 169:\penalty0
-  120794, 2021.
 
 \bibitem[Marvel and Lumpkin(2007)]{marvel2007technology}
 M.~R. Marvel and G.~T. Lumpkin.
@@ -180,12 +279,24 @@ M.~R. Marvel, J.~L. Davis, and C.~R. Sproul.
 \newblock \emph{Entrepreneurship Theory and Practice}, 40\penalty0
   (3):\penalty0 599--626, 2016.
 
+\bibitem[Nahata(2019)]{nahata2019success}
+R.~Nahata.
+\newblock Success is good but failure is not so bad either: Serial
+  entrepreneurs and venture capital contracting.
+\newblock \emph{Journal of Corporate Finance}, 58:\penalty0 624--649, 2019.
+
 \bibitem[Nambisan(2017)]{nambisan2017digital}
 S.~Nambisan.
 \newblock Digital entrepreneurship: Toward a digital technology perspective of
   entrepreneurship.
 \newblock \emph{Entrepreneurship Theory and Practice}, 41\penalty0
   (6):\penalty0 1029--1055, 2017.
+
+\bibitem[Nanda and Rhodes-Kropf(2016)]{nanda2016financing}
+R.~Nanda and M.~Rhodes-Kropf.
+\newblock Financing entrepreneurial experimentation.
+\newblock \emph{Innovation Policy and the Economy}, 16\penalty0 (1):\penalty0
+  1--23, 2016.
 
 \bibitem[Nanda et~al.(2020)Nanda, Samila, and Sorenson]{nanda2020persistent}
 R.~Nanda, S.~Samila, and O.~Sorenson.
@@ -204,6 +315,13 @@ B.~Nooteboom, W.~Van~Haverbeke, G.~Duysters, V.~Gilsing, and A.~Van~den Oord.
 A.~Othman.
 \newblock What angellist data says about power-law returns in venture capital.
 \newblock 2020.
+
+\bibitem[Packalen(2007)]{packalen2007complementing}
+K.~A. Packalen.
+\newblock Complementing capital: The role of status, demographic features, and
+  social capital in founding teams’ abilities to obtain resources.
+\newblock \emph{Entrepreneurship Theory and Practice}, 31\penalty0
+  (6):\penalty0 873--891, 2007.
 
 \bibitem[Pierce and Aguinis(2013)]{pierce2013too}
 J.~R. Pierce and H.~Aguinis.
@@ -246,6 +364,15 @@ D.~Reese, V.~Rieger, and A.~Engelen.
   teams?
 \newblock \emph{Strategic Entrepreneurship Journal}, 2020.
 
+\bibitem[Rosenbusch et~al.(2013)Rosenbusch, Brinckmann, and
+  M{\"u}ller]{rosenbusch2013does}
+N.~Rosenbusch, J.~Brinckmann, and V.~M{\"u}ller.
+\newblock Does acquiring venture capital pay off for the funded firms? a
+  meta-analysis on the relationship between venture capital investment and
+  funded firm financial performance.
+\newblock \emph{Journal of business venturing}, 28\penalty0 (3):\penalty0
+  335--353, 2013.
+
 \bibitem[Roure and Keeley(1990)]{roure1990predictors}
 J.~B. Roure and R.~H. Keeley.
 \newblock Predictors of success in new technology based ventures.
@@ -259,11 +386,29 @@ J.~B. Roure and M.~A. Maidique.
 \newblock \emph{Journal of business venturing}, 1\penalty0 (3):\penalty0
   295--306, 1986.
 
+\bibitem[Semrau and Werner(2014)]{semrau2014exactly}
+T.~Semrau and A.~Werner.
+\newblock How exactly do network relationships pay off? the effects of network
+  size and relationship quality on access to start--up resources.
+\newblock \emph{Entrepreneurship Theory and Practice}, 38\penalty0
+  (3):\penalty0 501--525, 2014.
+
 \bibitem[Shane(2000)]{shane2000prior}
 S.~Shane.
 \newblock Prior knowledge and the discovery of entrepreneurial opportunities.
 \newblock \emph{Organization science}, 11\penalty0 (4):\penalty0 448--469,
   2000.
+
+\bibitem[Shane and Cable(2002)]{shane2002network}
+S.~Shane and D.~Cable.
+\newblock Network ties, reputation, and the financing of new ventures.
+\newblock \emph{Management science}, 48\penalty0 (3):\penalty0 364--381, 2002.
+
+\bibitem[Shane and Stuart(2002)]{shane2002organizational}
+S.~Shane and T.~Stuart.
+\newblock Organizational endowments and the performance of university
+  start-ups.
+\newblock \emph{Management science}, 48\penalty0 (1):\penalty0 154--170, 2002.
 
 \bibitem[Shane and Venkataraman(2000)]{shane2000promise}
 S.~Shane and S.~Venkataraman.
@@ -271,18 +416,39 @@ S.~Shane and S.~Venkataraman.
 \newblock \emph{Academy of management review}, 25\penalty0 (1):\penalty0
   217--226, 2000.
 
-\bibitem[Singhal et~al.(2022)Singhal, Rane, Wadalkar, Joshi, and
-  Deshpande]{singhal2022data}
-J.~Singhal, C.~Rane, Y.~Wadalkar, M.~Joshi, and A.~Deshpande.
-\newblock Data driven analysis for startup investments for venture capitalists.
-\newblock In \emph{2022 International Conference for Advancement in Technology
-  (ICONAT)}, pages 1--6. IEEE, 2022.
+\bibitem[Sirmon et~al.(2011)Sirmon, Hitt, Ireland, and
+  Gilbert]{sirmon2011resource}
+D.~G. Sirmon, M.~A. Hitt, R.~D. Ireland, and B.~A. Gilbert.
+\newblock Resource orchestration to create competitive advantage: Breadth,
+  depth, and life cycle effects.
+\newblock \emph{Journal of management}, 37\penalty0 (5):\penalty0 1390--1412,
+  2011.
 
 \bibitem[Spence(1974)]{spence1974market}
 M.~Spence.
 \newblock \emph{Market signaling: Informational transfer in hiring and related
   screening processes}.
 \newblock Number 143. cambridge: harvard university press, 1974.
+
+\bibitem[Spence(1978)]{spence1978job}
+M.~Spence.
+\newblock Job market signaling.
+\newblock In \emph{Uncertainty in economics}, pages 281--306. Elsevier, 1978.
+
+\bibitem[Subramanian et~al.(2022)Subramanian, Venkataraman, and
+  Jiang]{subramanian2022backing}
+H.~C. Subramanian, V.~Venkataraman, and H.~Jiang.
+\newblock Backing the right jockey? founder traits and early-stage funding in
+  digital entrepreneurship.
+\newblock In \emph{Academy of Management Proceedings}, volume 2022, page 17128.
+  Academy of Management Briarcliff Manor, NY 10510, 2022.
+
+\bibitem[Townsend and Busenitz(2015)]{townsend2015turning}
+D.~M. Townsend and L.~W. Busenitz.
+\newblock Turning water into wine? exploring the role of dynamic capabilities
+  in early-stage capitalization processes.
+\newblock \emph{Journal of Business Venturing}, 30\penalty0 (2):\penalty0
+  292--306, 2015.
 
 \bibitem[Unger et~al.(2011)Unger, Raugrch, Frese, and
   Rosenbusch]{unger2011human}
@@ -296,6 +462,20 @@ S.~Wise, S.~Yeganegi, and A.~O. Laplume.
 \newblock Startup team ethnic diversity and investment capital raised.
 \newblock \emph{Journal of Business Venturing Insights}, 17:\penalty0 e00314,
   2022.
+
+\bibitem[Xie et~al.(2020)Xie, Feng, and Hu]{xie2020does}
+X.-Y. Xie, W.~Feng, and Q.~Hu.
+\newblock Does new venture team power hierarchy enhance or impair new venture
+  performance? a contingency perspective.
+\newblock \emph{Journal of business venturing}, 35\penalty0 (6):\penalty0
+  106059, 2020.
+
+\bibitem[Zarutskie(2010)]{zarutskie2010role}
+R.~Zarutskie.
+\newblock The role of top management team human capital in venture capital
+  markets: Evidence from first-time funds.
+\newblock \emph{Journal of Business Venturing}, 25\penalty0 (1):\penalty0
+  155--172, 2010.
 
 \bibitem[Zheng et~al.(2016)Zheng, Devaughn, and Zellmer-Bruhn]{zheng2016shared}
 Y.~Zheng, M.~L. Devaughn, and M.~Zellmer-Bruhn.
