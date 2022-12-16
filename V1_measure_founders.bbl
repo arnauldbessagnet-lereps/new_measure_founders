@@ -1,16 +1,9 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{61}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\bibitem[Acs et~al.(2021)Acs, Song, Szerb, Audretsch, and
-  Komlosi]{acs2021evolution}
-Z.~J. Acs, A.~K. Song, L.~Szerb, D.~B. Audretsch, and E.~Komlosi.
-\newblock The evolution of the global digital platform economy: 1971--2021.
-\newblock \emph{Small Business Economics}, 57\penalty0 (4):\penalty0
-  1629--1659, 2021.
 
 \bibitem[Aggarwal et~al.(2015)Aggarwal, Kryscynski, and
   Singh]{aggarwal2015evaluating}
@@ -19,13 +12,6 @@ R.~Aggarwal, D.~Kryscynski, and H.~Singh.
   investment decisions.
 \newblock \emph{Management Science}, 61\penalty0 (11):\penalty0 2685--2706,
   2015.
-
-\bibitem[Aldrich and Ruef(2018)]{aldrich2018unicorns}
-H.~E. Aldrich and M.~Ruef.
-\newblock Unicorns, gazelles, and other distractions on the way to
-  understanding real entrepreneurship in the united states.
-\newblock \emph{Academy of Management Perspectives}, 32\penalty0 (4):\penalty0
-  458--472, 2018.
 
 \bibitem[Audretsch and Lehmann(2004)]{audretsch2004financing}
 D.~B. Audretsch and E.~E. Lehmann.
@@ -46,11 +32,6 @@ R.~C. Becherer and J.~G. Maurer.
   among small company presidents.
 \newblock \emph{Journal of small business management}, 37\penalty0
   (1):\penalty0 28, 1999.
-
-\bibitem[Becker(1964)]{becker1964human}
-G.~S. Becker.
-\newblock \emph{Human capital}.
-\newblock University of Chicago press, 1964.
 
 \bibitem[Becker-Blease and Sohl(2015)]{becker2015new}
 J.~R. Becker-Blease and J.~E. Sohl.
@@ -91,25 +72,11 @@ G.~N. Chandler and S.~H. Hanks.
 \newblock \emph{Entrepreneurship theory and practice}, 18\penalty0
   (3):\penalty0 77--89, 1994.
 
-\bibitem[Coad and Srhoj(2020)]{coad2020catching}
-A.~Coad and S.~Srhoj.
-\newblock Catching gazelles with a lasso: Big data techniques for the
-  prediction of high-growth firms.
-\newblock \emph{Small Business Economics}, 55\penalty0 (3):\penalty0 541--565,
-  2020.
-
 \bibitem[Colombo and Grilli(2005)]{colombo2005founders}
 M.~G. Colombo and L.~Grilli.
 \newblock Founders’ human capital and the growth of new technology-based
   firms: A competence-based view.
 \newblock \emph{Research policy}, 34\penalty0 (6):\penalty0 795--816, 2005.
-
-\bibitem[Colombo(2021)]{colombo2021use}
-O.~Colombo.
-\newblock The use of signals in new-venture financing: A review and research
-  agenda.
-\newblock \emph{Journal of Management}, 47\penalty0 (1):\penalty0 237--259,
-  2021.
 
 \bibitem[Delmar et~al.(2003)Delmar, Davidsson, and Gartner]{delmar2003arriving}
 F.~Delmar, P.~Davidsson, and W.~B. Gartner.
@@ -170,13 +137,6 @@ M.~Grillitsch and T.~Schubert.
 \newblock Does the timing of integrating new skills affect start-up growth?
 \newblock \emph{Strategic Entrepreneurship Journal}, 15\penalty0 (4):\penalty0
   647--684, 2021.
-
-\bibitem[Hallen(2008)]{hallen2008causes}
-B.~L. Hallen.
-\newblock The causes and consequences of the initial network positions of new
-  organizations: From whom do entrepreneurs receive investments?
-\newblock \emph{Administrative Science Quarterly}, 53\penalty0 (4):\penalty0
-  685--718, 2008.
 
 \bibitem[Harrison and Klein(2007)]{harrison2007s}
 D.~A. Harrison and K.~J. Klein.
@@ -297,12 +257,6 @@ S.~Nambisan.
 \newblock \emph{Entrepreneurship Theory and Practice}, 41\penalty0
   (6):\penalty0 1029--1055, 2017.
 
-\bibitem[Nanda and Rhodes-Kropf(2016)]{nanda2016financing}
-R.~Nanda and M.~Rhodes-Kropf.
-\newblock Financing entrepreneurial experimentation.
-\newblock \emph{Innovation Policy and the Economy}, 16\penalty0 (1):\penalty0
-  1--23, 2016.
-
 \bibitem[Ngoasong(2017)]{ngoasong2017digital}
 M.~Z. Ngoasong.
 \newblock Digital entrepreneurship in a resource-scarce context: A focus on
@@ -327,13 +281,6 @@ J.~R. Pierce and H.~Aguinis.
 \newblock The too-much-of-a-good-thing effect in management.
 \newblock \emph{Journal of Management}, 39\penalty0 (2):\penalty0 313--338,
   2013.
-
-\bibitem[Pinelli et~al.(2020)Pinelli, Cappa, Franco, Peruffo, and
-  Oriani]{pinelli2020too}
-M.~Pinelli, F.~Cappa, S.~Franco, E.~Peruffo, and R.~Oriani.
-\newblock Too much of two good things: effects of founders’ educational level
-  and heterogeneity on start-up funds raised.
-\newblock \emph{IEEE Transactions on Engineering Management}, 2020.
 
 \bibitem[Plummer et~al.(2016)Plummer, Allison, and Connelly]{plummer2016better}
 L.~A. Plummer, T.~H. Allison, and B.~L. Connelly.
@@ -448,12 +395,6 @@ J.~M. Unger, A.~Raugrch, M.~Frese, and N.~Rosenbusch.
 \newblock Human capital and entrepreneurial success: A meta-analytical review.
 \newblock \emph{Journal of business venturing}, 26\penalty0 (3):\penalty0
   341--358, 2011.
-
-\bibitem[Wise et~al.(2022)Wise, Yeganegi, and Laplume]{wise2022startup}
-S.~Wise, S.~Yeganegi, and A.~O. Laplume.
-\newblock Startup team ethnic diversity and investment capital raised.
-\newblock \emph{Journal of Business Venturing Insights}, 17:\penalty0 e00314,
-  2022.
 
 \bibitem[Xie et~al.(2020)Xie, Feng, and Hu]{xie2020does}
 X.-Y. Xie, W.~Feng, and Q.~Hu.

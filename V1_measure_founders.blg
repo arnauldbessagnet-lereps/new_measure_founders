@@ -6,45 +6,45 @@ Database file #1: biblio.bib
 Warning--empty journal in ghassemiautomated
 Warning--there's a number but no series in spence1974market
 Warning--can't use both volume and number fields in subramanian2022backing
-You've used 70 entries,
+You've used 61 entries,
             2773 wiz_defined-function locations,
-            1002 strings with 17378 characters,
-and the built_in function-call counts, 32431 in all, are:
-= -- 2993
-> -- 1659
-< -- 50
-+ -- 565
-- -- 495
-* -- 2699
-:= -- 4923
-add.period$ -- 214
-call.type$ -- 70
-change.case$ -- 373
-chr.to.int$ -- 70
-cite$ -- 143
-duplicate$ -- 1469
-empty$ -- 2774
-format.name$ -- 617
-if$ -- 6779
+            953 strings with 15828 characters,
+and the built_in function-call counts, 28400 in all, are:
+= -- 2631
+> -- 1440
+< -- 44
++ -- 490
+- -- 429
+* -- 2367
+:= -- 4299
+add.period$ -- 187
+call.type$ -- 61
+change.case$ -- 325
+chr.to.int$ -- 61
+cite$ -- 125
+duplicate$ -- 1287
+empty$ -- 2432
+format.name$ -- 536
+if$ -- 5945
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 72
-newline$ -- 358
-num.names$ -- 280
-pop$ -- 664
+missing$ -- 62
+newline$ -- 313
+num.names$ -- 244
+pop$ -- 574
 preamble$ -- 1
-purify$ -- 305
+purify$ -- 265
 quote$ -- 0
-skip$ -- 1103
+skip$ -- 968
 stack$ -- 0
-substring$ -- 1627
-swap$ -- 112
+substring$ -- 1444
+swap$ -- 103
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 760
+type$ -- 666
 warning$ -- 3
-while$ -- 331
+while$ -- 291
 width$ -- 0
-write$ -- 914
+write$ -- 799
 (There were 3 warnings)
