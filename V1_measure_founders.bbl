@@ -1,4 +1,4 @@
-\begin{thebibliography}{72}
+\begin{thebibliography}{70}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -72,11 +72,11 @@ S.~T. Bell.
 \newblock \emph{Journal of applied psychology}, 92\penalty0 (3):\penalty0 595,
   2007.
 
-\bibitem[Bertoni et~al.(2011)Bertoni, Colombo, and Grilli]{bertoni2011venture}
-F.~Bertoni, M.~G. Colombo, and L.~Grilli.
-\newblock Venture capital financing and the growth of high-tech start-ups:
-  Disentangling treatment from selection effects.
-\newblock \emph{Research policy}, 40\penalty0 (7):\penalty0 1028--1043, 2011.
+\bibitem[Boeker(1989)]{boeker1989strategic}
+W.~Boeker.
+\newblock Strategic change: The effects of founding and history.
+\newblock \emph{Academy of Management journal}, 32\penalty0 (3):\penalty0
+  489--515, 1989.
 
 \bibitem[Bunderson and Sutcliffe(2002)]{bunderson2002comparing}
 J.~S. Bunderson and K.~M. Sutcliffe.
@@ -111,18 +111,17 @@ O.~Colombo.
 \newblock \emph{Journal of Management}, 47\penalty0 (1):\penalty0 237--259,
   2021.
 
-\bibitem[Crowne(2002)]{crowne2002software}
-M.~Crowne.
-\newblock Why software product startups fail and what to do about it. the
-  evolution of software product development in startup companies.
-\newblock In \emph{IEEE International Engineering Management Conference},
-  volume~1, pages 338--343. IEEE, 2002.
-
 \bibitem[Delmar et~al.(2003)Delmar, Davidsson, and Gartner]{delmar2003arriving}
 F.~Delmar, P.~Davidsson, and W.~B. Gartner.
 \newblock Arriving at the high-growth firm.
 \newblock \emph{Journal of business venturing}, 18\penalty0 (2):\penalty0
   189--216, 2003.
+
+\bibitem[Duhigg(2016)]{duhigg2016google}
+C.~Duhigg.
+\newblock What google learned from its quest to build the perfect team.
+\newblock \emph{The New York Times Magazine}, 26\penalty0 (2016):\penalty0
+  2016, 2016.
 
 \bibitem[Eddleston et~al.(2016)Eddleston, Ladge, Mitteness, and
   Balachandra]{eddleston2016you}
@@ -131,6 +130,19 @@ K.~A. Eddleston, J.~J. Ladge, C.~Mitteness, and L.~Balachandra.
   characteristics on financing entrepreneurial ventures.
 \newblock \emph{Entrepreneurship Theory and Practice}, 40\penalty0
   (3):\penalty0 489--514, 2016.
+
+\bibitem[Eisenhardt and Schoonhoven(1990)]{eisenhardt1990organizational}
+K.~M. Eisenhardt and C.~B. Schoonhoven.
+\newblock Organizational growth: Linking founding team, strategy, environment,
+  and growth among us semiconductor ventures, 1978-1988.
+\newblock \emph{Administrative science quarterly}, pages 504--529, 1990.
+
+\bibitem[Ensley et~al.(1998)Ensley, Carland, and Carland]{ensley1998effect}
+M.~D. Ensley, J.~W. Carland, and J.~C. Carland.
+\newblock The effect of entrepreneurial team skill heterogeneity and functional
+  diversity on new venture performance.
+\newblock \emph{Journal of Business and Entrepreneurship}, 10\penalty0
+  (1):\penalty0 1, 1998.
 
 \bibitem[Franke et~al.(2008)Franke, Gruber, Harhoff, and
   Henkel]{franke2008venture}
@@ -190,13 +202,6 @@ D.~H. Hsu.
 \newblock Experienced entrepreneurial founders, organizational capital, and
   venture capital funding.
 \newblock \emph{Research policy}, 36\penalty0 (5):\penalty0 722--741, 2007.
-
-\bibitem[Huang et~al.(2017)Huang, Henfridsson, Liu, and
-  Newell]{huang2017growing}
-J.~Huang, O.~Henfridsson, M.~J. Liu, and S.~Newell.
-\newblock Growing on steroids: Rapidly scaling the user base of digital
-  ventures through digital innovaton.
-\newblock \emph{Mis Quarterly}, 41\penalty0 (1), 2017.
 
 \bibitem[Huang and Knight(2017)]{huang2017resources}
 L.~Huang and A.~P. Knight.
@@ -298,23 +303,17 @@ R.~Nanda and M.~Rhodes-Kropf.
 \newblock \emph{Innovation Policy and the Economy}, 16\penalty0 (1):\penalty0
   1--23, 2016.
 
-\bibitem[Nanda et~al.(2020)Nanda, Samila, and Sorenson]{nanda2020persistent}
-R.~Nanda, S.~Samila, and O.~Sorenson.
-\newblock The persistent effect of initial success: Evidence from venture
-  capital.
-\newblock \emph{Journal of Financial Economics}, 137\penalty0 (1):\penalty0
-  231--248, 2020.
+\bibitem[Ngoasong(2017)]{ngoasong2017digital}
+M.~Z. Ngoasong.
+\newblock Digital entrepreneurship in a resource-scarce context: A focus on
+  entrepreneurial digital competencies.
+\newblock \emph{Journal of Small Business and Enterprise Development}, 2017.
 
 \bibitem[Nooteboom et~al.(2007)Nooteboom, Van~Haverbeke, Duysters, Gilsing, and
   Van~den Oord]{nooteboom2007optimal}
 B.~Nooteboom, W.~Van~Haverbeke, G.~Duysters, V.~Gilsing, and A.~Van~den Oord.
 \newblock Optimal cognitive distance and absorptive capacity.
 \newblock \emph{Research policy}, 36\penalty0 (7):\penalty0 1016--1034, 2007.
-
-\bibitem[Othman(2020)]{othman2020angelistdata}
-A.~Othman.
-\newblock What angellist data says about power-law returns in venture capital.
-\newblock 2020.
 
 \bibitem[Packalen(2007)]{packalen2007complementing}
 K.~A. Packalen.
@@ -378,13 +377,6 @@ J.~B. Roure and R.~H. Keeley.
 \newblock Predictors of success in new technology based ventures.
 \newblock \emph{Journal of business venturing}, 5\penalty0 (4):\penalty0
   201--220, 1990.
-
-\bibitem[Roure and Maidique(1986)]{roure1986linking}
-J.~B. Roure and M.~A. Maidique.
-\newblock Linking prefunding factors and high-technology venture success: An
-  exploratory study.
-\newblock \emph{Journal of business venturing}, 1\penalty0 (3):\penalty0
-  295--306, 1986.
 
 \bibitem[Semrau and Werner(2014)]{semrau2014exactly}
 T.~Semrau and A.~Werner.
@@ -476,13 +468,6 @@ R.~Zarutskie.
   markets: Evidence from first-time funds.
 \newblock \emph{Journal of Business Venturing}, 25\penalty0 (1):\penalty0
   155--172, 2010.
-
-\bibitem[Zheng et~al.(2016)Zheng, Devaughn, and Zellmer-Bruhn]{zheng2016shared}
-Y.~Zheng, M.~L. Devaughn, and M.~Zellmer-Bruhn.
-\newblock Shared and shared alike? f ounders' prior shared experience and
-  performance of newly founded banks.
-\newblock \emph{Strategic Management Journal}, 37\penalty0 (12):\penalty0
-  2503--2520, 2016.
 
 \bibitem[Zhou and Rosini(2015)]{zhou2015entrepreneurial}
 W.~Zhou and E.~Rosini.
