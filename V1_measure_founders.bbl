@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{71}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -20,11 +20,24 @@ D.~B. Audretsch and E.~E. Lehmann.
 \newblock \emph{Schmalenbach Business Review}, 56\penalty0 (4):\penalty0
   340--357, 2004.
 
+\bibitem[Audretsch and Thurik(2001)]{audretsch2001linking}
+D.~B. Audretsch and R.~Thurik.
+\newblock Linking entrepreneurship to growth.
+\newblock 2001.
+
 \bibitem[Autio(2016)]{autio2016entrepreneurship}
 E.~Autio.
 \newblock Entrepreneurship support in europe: Trends and challenges for eu
   policy.
 \newblock \emph{London, England: Imperial College Business School}, 2016.
+
+\bibitem[Baum and Silverman(2004)]{baum2004picking}
+J.~A. Baum and B.~S. Silverman.
+\newblock Picking winners or building them? alliance, intellectual, and human
+  capital as selection criteria in venture financing and performance of
+  biotechnology startups.
+\newblock \emph{Journal of business venturing}, 19\penalty0 (3):\penalty0
+  411--436, 2004.
 
 \bibitem[Becherer and Maurer(1999)]{becherer1999proactive}
 R.~C. Becherer and J.~G. Maurer.
@@ -53,6 +66,14 @@ S.~T. Bell.
 \newblock \emph{Journal of applied psychology}, 92\penalty0 (3):\penalty0 595,
   2007.
 
+\bibitem[Bernstein et~al.(2017)Bernstein, Korteweg, and
+  Laws]{bernstein2017attracting}
+S.~Bernstein, A.~Korteweg, and K.~Laws.
+\newblock Attracting early-stage investors: Evidence from a randomized field
+  experiment.
+\newblock \emph{The Journal of Finance}, 72\penalty0 (2):\penalty0 509--538,
+  2017.
+
 \bibitem[Boeker(1989)]{boeker1989strategic}
 W.~Boeker.
 \newblock Strategic change: The effects of founding and history.
@@ -78,11 +99,27 @@ M.~G. Colombo and L.~Grilli.
   firms: A competence-based view.
 \newblock \emph{Research policy}, 34\penalty0 (6):\penalty0 795--816, 2005.
 
+\bibitem[Cooper et~al.(1994)Cooper, Gimeno-Gascon, and Woo]{cooper1994initial}
+A.~C. Cooper, F.~J. Gimeno-Gascon, and C.~Y. Woo.
+\newblock Initial human and financial capital as predictors of new venture
+  performance.
+\newblock \emph{Journal of business venturing}, 9\penalty0 (5):\penalty0
+  371--395, 1994.
+
 \bibitem[Delmar et~al.(2003)Delmar, Davidsson, and Gartner]{delmar2003arriving}
 F.~Delmar, P.~Davidsson, and W.~B. Gartner.
 \newblock Arriving at the high-growth firm.
 \newblock \emph{Journal of business venturing}, 18\penalty0 (2):\penalty0
   189--216, 2003.
+
+\bibitem[Drover et~al.(2017)Drover, Busenitz, Matusik, Townsend, Anglin, and
+  Dushnitsky]{drover2017review}
+W.~Drover, L.~Busenitz, S.~Matusik, D.~Townsend, A.~Anglin, and G.~Dushnitsky.
+\newblock A review and road map of entrepreneurial equity financing research:
+  venture capital, corporate venture capital, angel investment, crowdfunding,
+  and accelerators.
+\newblock \emph{Journal of management}, 43\penalty0 (6):\penalty0 1820--1853,
+  2017.
 
 \bibitem[Duhigg(2016)]{duhigg2016google}
 C.~Duhigg.
@@ -110,6 +147,19 @@ M.~D. Ensley, J.~W. Carland, and J.~C. Carland.
   diversity on new venture performance.
 \newblock \emph{Journal of Business and Entrepreneurship}, 10\penalty0
   (1):\penalty0 1, 1998.
+
+\bibitem[European-Commission(2015)]{EUcommission2015digital}
+European-Commission.
+\newblock 'digital transformation of european industry and enterprises' –
+  report from the strategic policy forum on digital entrepreneurship.
+\newblock \emph{Report from the Strategic Policy Forum}, pages 1--14, 2015.
+
+\bibitem[Franke et~al.(2006)Franke, Gruber, Harhoff, and Henkel]{franke2006you}
+N.~Franke, M.~Gruber, D.~Harhoff, and J.~Henkel.
+\newblock What you are is what you like—similarity biases in venture
+  capitalists' evaluations of start-up teams.
+\newblock \emph{Journal of Business Venturing}, 21\penalty0 (6):\penalty0
+  802--826, 2006.
 
 \bibitem[Franke et~al.(2008)Franke, Gruber, Harhoff, and
   Henkel]{franke2008venture}
@@ -184,6 +234,21 @@ L.~Jin, K.~Madison, N.~D. Kraiczy, F.~W. Kellermanns, T.~R. Crook, and J.~Xi.
   performance: A meta--analysis.
 \newblock \emph{Entrepreneurship Theory and Practice}, 41\penalty0
   (5):\penalty0 743--771, 2017.
+
+\bibitem[Kamm et~al.(1990)Kamm, Shuman, Seeger, and
+  Nurick]{kamm1990entrepreneurial}
+J.~B. Kamm, J.~C. Shuman, J.~A. Seeger, and A.~J. Nurick.
+\newblock Entrepreneurial teams in new venture creation: A research agenda.
+\newblock \emph{Entrepreneurship theory and practice}, 14\penalty0
+  (4):\penalty0 7--17, 1990.
+
+\bibitem[Kaplan et~al.(2009)Kaplan, Sensoy, and
+  Str{\"o}mberg]{kaplan2009should}
+S.~N. Kaplan, B.~A. Sensoy, and P.~Str{\"o}mberg.
+\newblock Should investors bet on the jockey or the horse? evidence from the
+  evolution of firms from early business plans to public companies.
+\newblock \emph{The Journal of Finance}, 64\penalty0 (1):\penalty0 75--115,
+  2009.
 
 \bibitem[Klein et~al.(2020)Klein, Neitzert, Hartmann-Wendels, and
   Kraus]{klein2020start}
@@ -324,6 +389,12 @@ J.~B. Roure and R.~H. Keeley.
 \newblock Predictors of success in new technology based ventures.
 \newblock \emph{Journal of business venturing}, 5\penalty0 (4):\penalty0
   201--220, 1990.
+
+\bibitem[Sahut et~al.(2021)Sahut, Iandoli, and Teulon]{sahut2021age}
+J.-M. Sahut, L.~Iandoli, and F.~Teulon.
+\newblock The age of digital entrepreneurship.
+\newblock \emph{Small Business Economics}, 56\penalty0 (3):\penalty0
+  1159--1169, 2021.
 
 \bibitem[Semrau and Werner(2014)]{semrau2014exactly}
 T.~Semrau and A.~Werner.
