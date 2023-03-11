@@ -3,49 +3,50 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: V1_measure_founders.aux
 The style file: abbrvnat.bst
 Database file #1: biblio.bib
+Warning--empty journal in ashby1957introduction
 Warning--empty journal in audretsch2001linking
 Warning--empty journal in ghassemiautomated
 Warning--there's a number but no series in spence1974market
 Warning--can't use both volume and number fields in subramanian2022backing
-You've used 71 entries,
+You've used 76 entries,
             2773 wiz_defined-function locations,
-            1001 strings with 17663 characters,
-and the built_in function-call counts, 33425 in all, are:
-= -- 3084
-> -- 1747
-< -- 48
-+ -- 593
-- -- 522
-* -- 2816
-:= -- 5068
-add.period$ -- 217
-call.type$ -- 71
-change.case$ -- 386
-chr.to.int$ -- 71
-cite$ -- 146
-duplicate$ -- 1498
-empty$ -- 2829
-format.name$ -- 643
-if$ -- 6982
+            1020 strings with 18110 characters,
+and the built_in function-call counts, 35710 in all, are:
+= -- 3298
+> -- 1857
+< -- 50
++ -- 631
+- -- 555
+* -- 3016
+:= -- 5414
+add.period$ -- 232
+call.type$ -- 76
+change.case$ -- 412
+chr.to.int$ -- 76
+cite$ -- 157
+duplicate$ -- 1601
+empty$ -- 3029
+format.name$ -- 681
+if$ -- 7453
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 72
-newline$ -- 363
-num.names$ -- 284
-pop$ -- 683
+missing$ -- 77
+newline$ -- 388
+num.names$ -- 304
+pop$ -- 729
 preamble$ -- 1
-purify$ -- 316
+purify$ -- 337
 quote$ -- 0
-skip$ -- 1129
+skip$ -- 1200
 stack$ -- 0
-substring$ -- 1683
-swap$ -- 117
+substring$ -- 1813
+swap$ -- 121
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 776
-warning$ -- 4
-while$ -- 340
+type$ -- 831
+warning$ -- 5
+while$ -- 366
 width$ -- 0
-write$ -- 927
-(There were 4 warnings)
+write$ -- 991
+(There were 5 warnings)
