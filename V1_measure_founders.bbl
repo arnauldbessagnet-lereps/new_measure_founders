@@ -1,4 +1,4 @@
-\begin{thebibliography}{80}
+\begin{thebibliography}{78}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -17,13 +17,6 @@ R.~Aggarwal, D.~Kryscynski, and H.~Singh.
 W.~R. Ashby.
 \newblock An introduction to cybernetics.
 \newblock 1957.
-
-\bibitem[Audretsch and Lehmann(2004)]{audretsch2004financing}
-D.~B. Audretsch and E.~E. Lehmann.
-\newblock Financing high-tech growth: the role of banks and venture
-  capitalists.
-\newblock \emph{Schmalenbach Business Review}, 56\penalty0 (4):\penalty0
-  340--357, 2004.
 
 \bibitem[Audretsch and Thurik(2001)]{audretsch2001linking}
 D.~B. Audretsch and R.~Thurik.
@@ -452,12 +445,6 @@ T.~Semrau and A.~Werner.
   size and relationship quality on access to start--up resources.
 \newblock \emph{Entrepreneurship Theory and Practice}, 38\penalty0
   (3):\penalty0 501--525, 2014.
-
-\bibitem[Shane(2000)]{shane2000prior}
-S.~Shane.
-\newblock Prior knowledge and the discovery of entrepreneurial opportunities.
-\newblock \emph{Organization science}, 11\penalty0 (4):\penalty0 448--469,
-  2000.
 
 \bibitem[Shane and Cable(2002)]{shane2002network}
 S.~Shane and D.~Cable.
