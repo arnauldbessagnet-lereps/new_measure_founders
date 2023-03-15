@@ -112,7 +112,7 @@ Our formal hypotheses (H1, H2, H3) conform with the proposed model presented in 
 
 \subsection{Data sources and collection process}
 
-To test our hypotheses, we built a dataset with information on firms, their fundraising activities, and granular information on the skill and expertises of start-up teams' members. Table \label{table1} lists our empirical variables, definitions, and sources. Table \label{table2} provides the general statistics and distribution across sizes and sectors. Table TABLE3 provides the descriptive statistics of the fundraising activities of the 508 firms in our sample. We detail the collection process below. \\
+To test our hypotheses, we built a dataset with information on firms, their fundraising activities, and granular information on the skill and expertises of start-up teams' members. Table \label{table1} lists our empirical variables, definitions, and sources. Table \label{table2} provides the general statistics and distribution across sizes and sectors. \label{table3} provides the descriptive statistics of the fundraising activities of the 508 firms in our sample. We detail the collection process below. \\
 
 INSERT TABLE 1 HERE \\
 
@@ -153,6 +153,8 @@ With the variable \textit{previous exit}, we partially controlled whether member
 Also, with the \textit{previous career} control variable, we could determine whether the start-up team members had any significant prior professional experience. Indeed, using human capital and signaling theory,  \citet{subramanian2022backing} investigated whether and how the human capital indicators of founders' educational attainment, professional experience, and personality traits affect early-stage venture capital (VC) investment. They concluded that founders with extensive professional experience attract higher initial investments than other founders.
 
 Sixth, we used the \textit{previous education} variable to determine whether the members of a start-up team attended a prestigious university. Indeed, X demonstrated that founders with degrees from first-plan institutions attracted significant early-stage investments. Additionally, teams founded by Ph.D. holders are more likely to receive funding and higher valuations, suggesting a signal effect. We Therefore have added the \textit{previous Ph.D.} variable \citep{hsu2007experienced}.
+
+Jerome Note : The “Elite’s University” variable is constructed from a combination of the top 10 universities worldwide (ARWU 2022 ranking) and the best French business and engineering schools (Figaro Etudiant Ranking 2023). ARWU is not suitable for capturing the entrepreneurial elite graduated in France, due to the weight and attractiveness of French "Grandes Ecoles", poorly represented in ARWU-type international rankings based on Clarivate bibliometric data . The student Figaro ranking integrates the quality of faculty recruitment, relations with industry, and the salary of graduate students.
 
 Finally, we controlled for the birth date and industry in which the firm operates because there may be some confusion due to the financial circumstances in which digital firms operate. We have created six sectoral economic indicators (RH, BI), and one for each year between 2010 and 2018.
 
@@ -249,7 +251,7 @@ This research did not receive any specific grant from funding agencies in the pu
 \textbf{Firms control variables}& &\\
 9. \textit{Size} & Number of start-up team members with ownership & Crunchbase, LinkedIn\\
 10. \textit{Foundation Year} & Eight dummy variables which take value 1 if the firm was founded in 2011, 2012, 2013, 2014, 2015, 2016, 2017 and 2018, or 0 otherwise. & Crunchbase, BPI\\
-11. \textit{Industry} & Ten industry dummies which take value 1 if the company is operating in i) Business Intelligence Analytics, ii) Customer Relationship Management, iii) Developers Software Infrastructure, iv) Education Human Resources, v) Finance Legal Insurance, vi) Healthcare, vii) Logistics Supply Chain, viii) Productivity Collaboration, ix) Real Estate Construction or x) Security & Crunchbase, BPI \\
+11. \textit{Industry} & Ten industry dummies which take value 1 if the company is operating in i) Business Intelligence Analytics, ii) Customer Relationship Management, iii) Developers Software Infrastructure, iv) Education Human Resources, v) Finance Legal Insurance, vi) Healthcare, vii) Logistics Supply Chain, viii) Productivity Collaboration, ix) Real Estate Construction x) Retail Ecommerce Marketing, or xi) Security & Crunchbase, BPI \\
 \cmidrule(r){1-3}
 \end{tabularx}
 \caption{Variable description and data sources}
@@ -298,6 +300,7 @@ This research did not receive any specific grant from funding agencies in the pu
 \textit{Logistics Supply Chain} & 514 & 0.060 & 0.238 & 0 & 1 \\
 \textit{Productivity Collaboration} & 514 & 0.140 & 0.347 & 0 & 1 \\
 \textit{Real Estate Construction} & 514 & 0.049 & 0.215 & 0 & 1 \\
+\textit{Retail Ecommerce Marketing} & 514 & 0.253 & 0.435 & 0 & 1 \\
 \textit{Security} & 514 & 0.027 & 0.163 & 0 & 1 \\
 \end{tabularx}
 \caption{Descriptive statistics}
@@ -329,6 +332,8 @@ Total	& & 367 & 1.306 & 0.600 & 0.020 & 15.000 & 0.942 \\
  & & \\
 \end{tabular}
 \\
+\\
+\\
 Part B :  Fundraising per founding date \\
 \begin{tabular}{p{3.2cm} p{1.2cm} p{1.2cm} p{1.2cm} p{1.2cm} p{1.2cm} p{1.2cm} p{1.2cm}}
 \toprule
@@ -349,6 +354,36 @@ Part B :  Fundraising per founding date \\
 Total & 514 & 367 & 0.980 & 0.300 & 0 & 2.700 & 0.528 \\
  & & \\
 \end{tabular}
+\caption{Descriptive statistics of fundraising rounds}
+\label{table3}
+\end{table}
+
+\begin{table} [ht]
+\begin{spacing}{0.75}
+\scriptsize
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{ p{10cm} p{1.5cm} p{1.5cm} }
+\toprule
+\multicolumn{1}{l}{Industry}&\multicolumn{1}{l}{Number of firms}&\multicolumn{1}{l}{\% total}\\
+\cmidrule(r){2-3}
+Business Intelligence Analytics & 36 & 7 \\
+Customer Relationship Management & 28 & 5.4 \\
+Developers Software Infrastructure & 41 & 8 \\
+Education Human Resources & 57 & 11.1 \\
+Finance Legal Insurance & 55 & 13.3 \\
+Healthcare & 25 & 6 \\
+Logistics Supply Chain & 31 & 7.5 \\
+Productivity Collaboration & 72 & 17.3 \\
+Real Estate Construction & 25 & 6 \\
+Retail Ecommerce Marketing & 130 & 31.3 \\
+Security & 14 & 3.3 \\
+\cmidrule(r){2-3}
+Total & 514 & 100 \\
+ & & \\
+\end{tabularx}
+\label{table4}
+\caption{Distribution of sample : firms by industry classification}
+\end{spacing}
 \end{table}
 
 \end{document}
