@@ -1,4 +1,4 @@
-\begin{thebibliography}{78}
+\begin{thebibliography}{77}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -28,12 +28,6 @@ E.~Autio.
 \newblock Entrepreneurship support in europe: Trends and challenges for eu
   policy.
 \newblock \emph{London, England: Imperial College Business School}, 2016.
-
-\bibitem[Banerji and Reimer(2019)]{banerji2019startup}
-D.~Banerji and T.~Reimer.
-\newblock Startup founders and their linkedin connections: Are well-connected
-  entrepreneurs more successful?
-\newblock \emph{Computers in Human Behavior}, 90:\penalty0 46--52, 2019.
 
 \bibitem[Baum and Silverman(2004)]{baum2004picking}
 J.~A. Baum and B.~S. Silverman.
@@ -286,6 +280,12 @@ S.~N. Kaplan, B.~A. Sensoy, and P.~Str{\"o}mberg.
 \newblock \emph{The Journal of Finance}, 64\penalty0 (1):\penalty0 75--115,
   2009.
 
+\bibitem[Kirtley and O'Mahony(2020)]{kirtley2020pivot}
+J.~Kirtley and S.~O'Mahony.
+\newblock What is a pivot? explaining when and how entrepreneurial firms decide
+  to make strategic change and pivot.
+\newblock \emph{Strategic Management Journal}, 2020.
+
 \bibitem[Klein et~al.(2020)Klein, Neitzert, Hartmann-Wendels, and
   Kraus]{klein2020start}
 M.~Klein, F.~Neitzert, T.~Hartmann-Wendels, and S.~Kraus.
@@ -462,12 +462,6 @@ S.~Shane and S.~Venkataraman.
 \newblock The promise of entrepreneurship as a field of research.
 \newblock \emph{Academy of management review}, 25\penalty0 (1):\penalty0
   217--226, 2000.
-
-\bibitem[Smith et~al.(2017)Smith, Smith, and Shaw]{smith2017embracing}
-C.~Smith, J.~B. Smith, and E.~Shaw.
-\newblock Embracing digital networks: Entrepreneurs' social capital online.
-\newblock \emph{Journal of Business Venturing}, 32\penalty0 (1):\penalty0
-  18--34, 2017.
 
 \bibitem[Spence(1974)]{spence1974market}
 M.~Spence.
