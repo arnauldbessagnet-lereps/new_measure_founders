@@ -1,4 +1,4 @@
-\begin{thebibliography}{76}
+\begin{thebibliography}{68}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -62,13 +62,6 @@ C.~M. Beckman, M.~D. Burton, and C.~O'Reilly.
 \newblock \emph{Journal of business venturing}, 22\penalty0 (2):\penalty0
   147--173, 2007.
 
-\bibitem[Bell(2007)]{bell2007deep}
-S.~T. Bell.
-\newblock Deep-level composition variables as predictors of team performance: a
-  meta-analysis.
-\newblock \emph{Journal of applied psychology}, 92\penalty0 (3):\penalty0 595,
-  2007.
-
 \bibitem[Bernstein et~al.(2017)Bernstein, Korteweg, and
   Laws]{bernstein2017attracting}
 S.~Bernstein, A.~Korteweg, and K.~Laws.
@@ -129,11 +122,12 @@ C.~Courtney, S.~Dutta, and Y.~Li.
 \newblock \emph{Entrepreneurship Theory and Practice}, 41\penalty0
   (2):\penalty0 265--290, 2017.
 
-\bibitem[Delmar et~al.(2003)Delmar, Davidsson, and Gartner]{delmar2003arriving}
-F.~Delmar, P.~Davidsson, and W.~B. Gartner.
-\newblock Arriving at the high-growth firm.
-\newblock \emph{Journal of business venturing}, 18\penalty0 (2):\penalty0
-  189--216, 2003.
+\bibitem[Delmar and Shane(2006)]{delmar2006does}
+F.~Delmar and S.~Shane.
+\newblock Does experience matter? the effect of founding team experience on the
+  survival and sales of newly founded ventures.
+\newblock \emph{Strategic Organization}, 4\penalty0 (3):\penalty0 215--247,
+  2006.
 
 \bibitem[Drover et~al.(2017)Drover, Busenitz, Matusik, Townsend, Anglin, and
   Dushnitsky]{drover2017review}
@@ -143,12 +137,6 @@ W.~Drover, L.~Busenitz, S.~Matusik, D.~Townsend, A.~Anglin, and G.~Dushnitsky.
   and accelerators.
 \newblock \emph{Journal of management}, 43\penalty0 (6):\penalty0 1820--1853,
   2017.
-
-\bibitem[Duhigg(2016)]{duhigg2016google}
-C.~Duhigg.
-\newblock What google learned from its quest to build the perfect team.
-\newblock \emph{The New York Times Magazine}, 26\penalty0 (2016):\penalty0
-  2016, 2016.
 
 \bibitem[Eddleston et~al.(2016)Eddleston, Ladge, Mitteness, and
   Balachandra]{eddleston2016you}
@@ -170,6 +158,12 @@ European-Commission.
   report from the strategic policy forum on digital entrepreneurship.
 \newblock \emph{Report from the Strategic Policy Forum}, pages 1--14, 2015.
 
+\bibitem[Ferrary(1999)]{ferrary1999confiance}
+M.~Ferrary.
+\newblock Confiance et accumulation de capital social dans la r{\'e}gulation
+  des activit{\'e}s de cr{\'e}dit.
+\newblock \emph{Revue fran{\c{c}}aise de sociologie}, pages 559--586, 1999.
+
 \bibitem[Franke et~al.(2006)Franke, Gruber, Harhoff, and Henkel]{franke2006you}
 N.~Franke, M.~Gruber, D.~Harhoff, and J.~Henkel.
 \newblock What you are is what you like—similarity biases in venture
@@ -190,19 +184,6 @@ M.~M. Ghassemi, C.~Song, and T.~Alhanai.
 \newblock The automated venture capitalist: Data and methods to predict the
   fate of startup ventures.
 \newblock 2015.
-
-\bibitem[Gompers et~al.(2010)Gompers, Kovner, Lerner, and
-  Scharfstein]{gompers2010performance}
-P.~Gompers, A.~Kovner, J.~Lerner, and D.~Scharfstein.
-\newblock Performance persistence in entrepreneurship.
-\newblock \emph{Journal of financial economics}, 96\penalty0 (1):\penalty0
-  18--32, 2010.
-
-\bibitem[Grillitsch and Schubert(2021)]{grillitsch2021does}
-M.~Grillitsch and T.~Schubert.
-\newblock Does the timing of integrating new skills affect start-up growth?
-\newblock \emph{Strategic Entrepreneurship Journal}, 15\penalty0 (4):\penalty0
-  647--684, 2021.
 
 \bibitem[Harrison and Klein(2007)]{harrison2007s}
 D.~A. Harrison and K.~J. Klein.
@@ -249,6 +230,12 @@ M.~Islam, A.~Fremeth, and A.~Marcus.
   venture capital funding.
 \newblock \emph{Journal of Business Venturing}, 33\penalty0 (1):\penalty0
   35--51, 2018.
+
+\bibitem[James et~al.(2013)James, Witten, Hastie, and
+  Tibshirani]{james2013introduction}
+G.~James, D.~Witten, T.~Hastie, and R.~Tibshirani.
+\newblock \emph{An introduction to statistical learning}, volume 112.
+\newblock Springer, 2013.
 
 \bibitem[Janney and Folta(2006)]{janney2006moderating}
 J.~J. Janney and T.~B. Folta.
@@ -317,13 +304,6 @@ J.~B. Kruskal.
 \newblock \emph{Proceedings of the American Mathematical society}, 7\penalty0
   (1):\penalty0 48--50, 1956.
 
-\bibitem[Luoma et~al.(2018)Luoma, Laatikainen, and
-  Mazhelis]{luoma2018exploring}
-E.~Luoma, G.~Laatikainen, and O.~Mazhelis.
-\newblock Exploring business model changes in software-as-a-service firms.
-\newblock In \emph{International Conference of Software Business}, pages
-  108--124. Springer, 2018.
-
 \bibitem[Marvel and Lumpkin(2007)]{marvel2007technology}
 M.~R. Marvel and G.~T. Lumpkin.
 \newblock Technology entrepreneurs’ human capital and its effects on
@@ -344,12 +324,6 @@ S.~F. Matusik, J.~M. George, and M.~B. Heeley.
   capitalist assessments of founders.
 \newblock \emph{Strategic Entrepreneurship Journal}, 2\penalty0 (2):\penalty0
   95--115, 2008.
-
-\bibitem[Nahata(2019)]{nahata2019success}
-R.~Nahata.
-\newblock Success is good but failure is not so bad either: Serial
-  entrepreneurs and venture capital contracting.
-\newblock \emph{Journal of Corporate Finance}, 58:\penalty0 624--649, 2019.
 
 \bibitem[Nambisan(2017)]{nambisan2017digital}
 S.~Nambisan.
@@ -390,14 +364,6 @@ C.~Rapanta and L.~Cantoni.
   skills to others.
 \newblock \emph{Business and Professional Communication Quarterly}, 80\penalty0
   (4):\penalty0 443--459, 2017.
-
-\bibitem[Ratzinger et~al.(2018)Ratzinger, Amess, Greenman, and
-  Mosey]{ratzinger2018impact}
-D.~Ratzinger, K.~Amess, A.~Greenman, and S.~Mosey.
-\newblock The impact of digital start-up founders’ higher education on
-  reaching equity investment milestones.
-\newblock \emph{The Journal of Technology Transfer}, 43\penalty0 (3):\penalty0
-  760--778, 2018.
 
 \bibitem[Reese et~al.(2020)Reese, Rieger, and Engelen]{reese2020should}
 D.~Reese, V.~Rieger, and A.~Engelen.
@@ -494,26 +460,5 @@ J.~M. Unger, A.~Raugrch, M.~Frese, and N.~Rosenbusch.
 \newblock Human capital and entrepreneurial success: A meta-analytical review.
 \newblock \emph{Journal of business venturing}, 26\penalty0 (3):\penalty0
   341--358, 2011.
-
-\bibitem[Xie et~al.(2020)Xie, Feng, and Hu]{xie2020does}
-X.-Y. Xie, W.~Feng, and Q.~Hu.
-\newblock Does new venture team power hierarchy enhance or impair new venture
-  performance? a contingency perspective.
-\newblock \emph{Journal of business venturing}, 35\penalty0 (6):\penalty0
-  106059, 2020.
-
-\bibitem[Zarutskie(2010)]{zarutskie2010role}
-R.~Zarutskie.
-\newblock The role of top management team human capital in venture capital
-  markets: Evidence from first-time funds.
-\newblock \emph{Journal of Business Venturing}, 25\penalty0 (1):\penalty0
-  155--172, 2010.
-
-\bibitem[Zhou and Rosini(2015)]{zhou2015entrepreneurial}
-W.~Zhou and E.~Rosini.
-\newblock Entrepreneurial team diversity and performance: Toward an integrated
-  model.
-\newblock \emph{Entrepreneurship Research Journal}, 5\penalty0 (1):\penalty0
-  31--60, 2015.
 
 \end{thebibliography}
