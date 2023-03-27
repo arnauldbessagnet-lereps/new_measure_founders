@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  19 MAR 2023 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  27 MAR 2023 20:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -752,113 +752,127 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--34
 [2
 
 ] [3] [4] [5] [6] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 <model.pdf, id=49, 779.55664pt x 324.09703pt>
 File: model.pdf Graphic file (type pdf)
 <use model.pdf>
-Package pdftex.def Info: model.pdf  used on input line 106.
+Package pdftex.def Info: model.pdf  used on input line 100.
 (pdftex.def)             Requested size: 389.77736pt x 162.04811pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
 [13 <./model.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-[16] [17] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[16] [17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-[20] [21] [22] [23] [24] (./V1_measure_founders.bbl [25
+[21] [22] [23] [24] [25] (./V1_measure_founders.bbl [26
 
-] [26] [27] [28]
-[29] [30] [31] [32]) [33]
-Overfull \hbox (6.40903pt too wide) in alignment at lines 248--248
+] [27] [28] [29]
+[30] [31] [32] [33] [34]) [35]
+Overfull \hbox (6.40903pt too wide) in alignment at lines 244--244
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 277--277
+Underfull \hbox (badness 10000) in alignment at lines 273--273
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--330
+Underfull \hbox (badness 3417) in paragraph at lines 283--284
+[]|\OT1/cmr/m/n/8 Part A : Fundrais-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--327
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--330
+Underfull \hbox (badness 10000) in paragraph at lines 281--327
 
  []
 
 
-Overfull \hbox (5.42123pt too wide) in alignment at lines 367--367
+Overfull \hbox (5.42123pt too wide) in alignment at lines 364--364
 [][][][][][] 
  []
 
 
-Overfull \hbox (79.083pt too wide) in paragraph at lines 377--400
+Overfull \hbox (79.083pt too wide) in paragraph at lines 374--398
  [][] 
  []
 
-[34
 
-] [35] [36] [37] [38] [39] (./V1_measure_founders.aux)
+LaTeX Warning: Float too large for page by 23.20891pt on input line 469.
+
+
+LaTeX Warning: Float too large for page by 13.70892pt on input line 538.
+
+
+LaTeX Warning: Float too large for page by 13.70892pt on input line 607.
+
+[36
+
+] [37] [38] [39] [40] [41] [42] [43] (./V1_measure_founders.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18055 strings out of 480608
- 375385 string characters out of 5903630
- 675265 words of memory out of 5000000
- 33627 multiletter control sequences out of 15000+600000
+ 18079 strings out of 480608
+ 375991 string characters out of 5903630
+ 711592 words of memory out of 5000000
+ 33651 multiletter control sequences out of 15000+600000
  541933 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,60p,2792b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,10n,60p,2981b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -874,10 +888,10 @@ ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texliv
 e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/
 2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on V1_measure_founders.pdf (39 pages, 325115 bytes).
+Output written on V1_measure_founders.pdf (43 pages, 334319 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
+ 214 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
