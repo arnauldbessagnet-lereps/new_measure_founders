@@ -1,4 +1,4 @@
-\begin{thebibliography}{76}
+\begin{thebibliography}{75}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -421,12 +421,6 @@ J.~B. Roure and R.~H. Keeley.
 \newblock Predictors of success in new technology based ventures.
 \newblock \emph{Journal of business venturing}, 5\penalty0 (4):\penalty0
   201--220, 1990.
-
-\bibitem[Sahut et~al.(2021)Sahut, Iandoli, and Teulon]{sahut2021age}
-J.-M. Sahut, L.~Iandoli, and F.~Teulon.
-\newblock The age of digital entrepreneurship.
-\newblock \emph{Small Business Economics}, 56\penalty0 (3):\penalty0
-  1159--1169, 2021.
 
 \bibitem[Sako et~al.(2020)Sako, Qian, Verhagen, and Parnham]{sako2020scaling}
 M.~Sako, M.~Qian, M.~Verhagen, and R.~Parnham.
