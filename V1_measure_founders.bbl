@@ -1,4 +1,4 @@
-\begin{thebibliography}{75}
+\begin{thebibliography}{79}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -190,6 +190,13 @@ N.~Franke, M.~Gruber, D.~Harhoff, and J.~Henkel.
 \newblock \emph{Entrepreneurship Theory and Practice}, 32\penalty0
   (3):\penalty0 459--483, 2008.
 
+\bibitem[Gasiorowski and Lee(2022)]{gasiorowski2022pay}
+L.~Gasiorowski and A.~Lee.
+\newblock Pay attention to me! the role of endorsements, patents, gender and
+  prior experience in startup media attention.
+\newblock \emph{Journal of Small Business and Enterprise Development},
+  30\penalty0 (1):\penalty0 120--143, 2022.
+
 \bibitem[Ghassemi et~al.(2015)Ghassemi, Song, and Alhanai]{ghassemiautomated}
 M.~M. Ghassemi, C.~Song, and T.~Alhanai.
 \newblock The automated venture capitalist: Data and methods to predict the
@@ -336,6 +343,14 @@ M.~R. Marvel, J.~L. Davis, and C.~R. Sproul.
 \newblock \emph{Entrepreneurship Theory and Practice}, 40\penalty0
   (3):\penalty0 599--626, 2016.
 
+\bibitem[Mathieu et~al.(2000)Mathieu, Heffner, Goodwin, Salas, and
+  Cannon-Bowers]{mathieu2000influence}
+J.~E. Mathieu, T.~S. Heffner, G.~F. Goodwin, E.~Salas, and J.~A. Cannon-Bowers.
+\newblock The influence of shared mental models on team process and
+  performance.
+\newblock \emph{Journal of applied psychology}, 85\penalty0 (2):\penalty0 273,
+  2000.
+
 \bibitem[Matusik et~al.(2008)Matusik, George, and Heeley]{matusik2008values}
 S.~F. Matusik, J.~M. George, and M.~B. Heeley.
 \newblock Values and judgment under uncertainty: evidence from venture
@@ -428,6 +443,13 @@ M.~Sako, M.~Qian, M.~Verhagen, and R.~Parnham.
   ecosystems compared.
 \newblock \emph{Available at SSRN 3520533}, 2020.
 
+\bibitem[Sarto and Saggese(2022)]{sarto2022board}
+F.~Sarto and S.~Saggese.
+\newblock Board industry expertise and innovation input: Evidence on the
+  curvilinear relationship and the moderating effect of ceo.
+\newblock \emph{European Journal of Innovation Management}, 25\penalty0
+  (6):\penalty0 775--803, 2022.
+
 \bibitem[Seabold and Perktold(2010)]{seabold2010statsmodels}
 S.~Seabold and J.~Perktold.
 \newblock statsmodels: Econometric and statistical modeling with python.
@@ -495,6 +517,13 @@ J.~M. Unger, A.~Raugrch, M.~Frese, and N.~Rosenbusch.
 \newblock Human capital and entrepreneurial success: A meta-analytical review.
 \newblock \emph{Journal of business venturing}, 26\penalty0 (3):\penalty0
   341--358, 2011.
+
+\bibitem[Williamsky(1998)]{williamsky1998demographyand}
+O.~Williamsky.
+\newblock Demography and diversity in organizations: A review of 40 years of
+  research.
+\newblock \emph{Research in Organizational Behavior}, 20\penalty0 (3):\penalty0
+  77--140, 1998.
 
 \bibitem[Wu et~al.(2018)Wu, Dhakal, Xu, and Cho]{wu2018analysis}
 Y.~Wu, N.~Dhakal, D.~Xu, and J.-H. Cho.
