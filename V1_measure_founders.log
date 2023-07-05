@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  3 JUL 2023 15:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.29)  5 JUL 2023 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -651,10 +651,16 @@ LaTeX Warning: Label `table2' multiply defined.
 LaTeX Warning: Label `table3' multiply defined.
 
 
+LaTeX Warning: Label `table4' multiply defined.
+
+
 LaTeX Warning: Label `table5' multiply defined.
 
 
 LaTeX Warning: Label `table6' multiply defined.
+
+
+LaTeX Warning: Label `table7' multiply defined.
 
 )
 \openout1 = `V1_measure_founders.aux'.
@@ -742,12 +748,6 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-Underfull \hbox (badness 1371) in paragraph at lines 32--34
-[]\OT1/cmr/m/n/10.95 Entrepreneurship re-search and sig-nal-ing the-ory sug-ges
-t that a start-up
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
  []
@@ -772,113 +772,127 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 <model.pdf, id=53, 779.55664pt x 324.09703pt>
 File: model.pdf Graphic file (type pdf)
 <use model.pdf>
-Package pdftex.def Info: model.pdf  used on input line 106.
+Package pdftex.def Info: model.pdf  used on input line 102.
 (pdftex.def)             Requested size: 389.77736pt x 162.04811pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
 [14 <./model.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-
- []
-
-[17] [18] [19] [20] [21]
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+[16] [17] [18] [19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
-[22] [23] [24] [25] [26] [27] (./V1_measure_founders.bbl [28
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
-] [29] [30]
-[31] [32] [33] [34] [35] [36]) [37]
-Overfull \hbox (6.40903pt too wide) in alignment at lines 254--254
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+[23] [24] [25] [26] [27] [28] (./V1_measure_founders.bbl [29
+
+] [30] [31]
+[32] [33] [34] [35] [36] [37]) [38] [39
+
+]
+Underfull \hbox (badness 1178) in paragraph at lines 265--265
+\OT1/cmr/m/n/8 De-vel-op-ers Soft-ware In-fras-truc-ture, iv) Ed-u-ca-tion
+ []
+
+
+Overfull \hbox (6.40903pt too wide) in alignment at lines 265--265
 [][][] 
  []
 
-
-Underfull \hbox (badness 10000) in alignment at lines 283--283
+[40]
+Underfull \hbox (badness 10000) in alignment at lines 294--294
 [][][] 
  []
 
+[41
 
-Underfull \hbox (badness 3417) in paragraph at lines 293--294
+
+]
+Underfull \hbox (badness 3417) in paragraph at lines 306--307
 []|\OT1/cmr/m/n/8 Part A : Fundrais-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--337
+Underfull \hbox (badness 10000) in paragraph at lines 304--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--337
+Underfull \hbox (badness 10000) in paragraph at lines 304--350
 
  []
 
+[42
 
-Overfull \hbox (5.42123pt too wide) in alignment at lines 374--374
+]
+Overfull \hbox (5.42123pt too wide) in alignment at lines 390--390
 [][][][][][] 
  []
 
+[43
 
-Overfull \hbox (79.083pt too wide) in paragraph at lines 384--408
+]
+Overfull \hbox (92.77763pt too wide) in paragraph at lines 402--427
  [][] 
  []
 
-
-LaTeX Warning: Float too large for page by 23.20891pt on input line 479.
-
-
-LaTeX Warning: Float too large for page by 13.70892pt on input line 548.
+[44] [45] [46
 
 
-LaTeX Warning: Float too large for page by 13.70892pt on input line 617.
 
-[38
+] [47
 
-] [39] [40] [41] [42] [43] [44] [45] (./V1_measure_founders.aux)
+] (./V1_measure_founders.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18091 strings out of 480608
- 376345 string characters out of 5903630
- 711754 words of memory out of 5000000
- 33663 multiletter control sequences out of 15000+600000
+ 18093 strings out of 480608
+ 376386 string characters out of 5903630
+ 628802 words of memory out of 5000000
+ 33665 multiletter control sequences out of 15000+600000
  541933 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,10n,60p,2613b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,10n,60p,3184b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -894,10 +908,10 @@ ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texliv
 e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/
 2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on V1_measure_founders.pdf (45 pages, 337166 bytes).
+Output written on V1_measure_founders.pdf (47 pages, 343640 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
+ 226 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

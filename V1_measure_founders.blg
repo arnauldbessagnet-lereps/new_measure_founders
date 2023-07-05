@@ -10,43 +10,43 @@ Warning--there's a number but no series in spence1974market
 Warning--can't use both volume and number fields in subramanian2022backing
 You've used 79 entries,
             2773 wiz_defined-function locations,
-            1036 strings with 18975 characters,
-and the built_in function-call counts, 36734 in all, are:
-= -- 3373
-> -- 1927
+            1032 strings with 18979 characters,
+and the built_in function-call counts, 36655 in all, are:
+= -- 3369
+> -- 1920
 < -- 58
-+ -- 655
-- -- 576
-* -- 3040
-:= -- 5576
++ -- 652
+- -- 573
+* -- 3027
+:= -- 5562
 add.period$ -- 241
 call.type$ -- 79
-change.case$ -- 425
+change.case$ -- 424
 chr.to.int$ -- 79
 cite$ -- 163
-duplicate$ -- 1675
-empty$ -- 3109
-format.name$ -- 711
-if$ -- 7682
+duplicate$ -- 1674
+empty$ -- 3103
+format.name$ -- 710
+if$ -- 7668
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 83
 newline$ -- 403
 num.names$ -- 316
-pop$ -- 783
+pop$ -- 782
 preamble$ -- 1
-purify$ -- 350
+purify$ -- 349
 quote$ -- 0
-skip$ -- 1266
+skip$ -- 1267
 stack$ -- 0
-substring$ -- 1756
+substring$ -- 1747
 swap$ -- 141
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 849
 warning$ -- 5
-while$ -- 373
+while$ -- 372
 width$ -- 0
-write$ -- 1026
+write$ -- 1025
 (There were 5 warnings)

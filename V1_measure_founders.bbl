@@ -13,6 +13,13 @@ R.~Aggarwal, D.~Kryscynski, and H.~Singh.
 \newblock \emph{Management Science}, 61\penalty0 (11):\penalty0 2685--2706,
   2015.
 
+\bibitem[Ahlers et~al.(2015)Ahlers, Cumming, G{\"u}nther, and
+  Schweizer]{ahlers2015signaling}
+G.~K. Ahlers, D.~Cumming, C.~G{\"u}nther, and D.~Schweizer.
+\newblock Signaling in equity crowdfunding.
+\newblock \emph{Entrepreneurship theory and practice}, 39\penalty0
+  (4):\penalty0 955--980, 2015.
+
 \bibitem[Ashby(1957)]{ashby1957introduction}
 W.~R. Ashby.
 \newblock An introduction to cybernetics.
@@ -76,11 +83,12 @@ S.~Bernstein, A.~Korteweg, and K.~Laws.
 \newblock \emph{The Journal of Finance}, 72\penalty0 (2):\penalty0 509--538,
   2017.
 
-\bibitem[Boeker(1989)]{boeker1989strategic}
-W.~Boeker.
-\newblock Strategic change: The effects of founding and history.
-\newblock \emph{Academy of Management journal}, 32\penalty0 (3):\penalty0
-  489--515, 1989.
+\bibitem[Biemann and Kearney(2010)]{biemann2010size}
+T.~Biemann and E.~Kearney.
+\newblock Size does matter: How varying group sizes in a sample affect the most
+  common measures of group diversity.
+\newblock \emph{Organizational research methods}, 13\penalty0 (3):\penalty0
+  582--599, 2010.
 
 \bibitem[Bourdieu(1979)]{bourdieu1979distinction}
 P.~Bourdieu.
@@ -139,6 +147,15 @@ F.~Delmar and S.~Shane.
   survival and sales of newly founded ventures.
 \newblock \emph{Strategic Organization}, 4\penalty0 (3):\penalty0 215--247,
   2006.
+
+\bibitem[D{\'\i}az-Fern{\'a}ndez et~al.(2020)D{\'\i}az-Fern{\'a}ndez,
+  Gonz{\'a}lez-Rodr{\'\i}guez, and Simonetti]{diaz2020top}
+M.~C. D{\'\i}az-Fern{\'a}ndez, M.~R. Gonz{\'a}lez-Rodr{\'\i}guez, and
+  B.~Simonetti.
+\newblock Top management team diversity and high performance: An integrative
+  approach based on upper echelons and complexity theory.
+\newblock \emph{European Management Journal}, 38\penalty0 (1):\penalty0
+  157--168, 2020.
 
 \bibitem[Drover et~al.(2017)Drover, Busenitz, Matusik, Townsend, Anglin, and
   Dushnitsky]{drover2017review}
@@ -343,14 +360,6 @@ M.~R. Marvel, J.~L. Davis, and C.~R. Sproul.
 \newblock \emph{Entrepreneurship Theory and Practice}, 40\penalty0
   (3):\penalty0 599--626, 2016.
 
-\bibitem[Mathieu et~al.(2000)Mathieu, Heffner, Goodwin, Salas, and
-  Cannon-Bowers]{mathieu2000influence}
-J.~E. Mathieu, T.~S. Heffner, G.~F. Goodwin, E.~Salas, and J.~A. Cannon-Bowers.
-\newblock The influence of shared mental models on team process and
-  performance.
-\newblock \emph{Journal of applied psychology}, 85\penalty0 (2):\penalty0 273,
-  2000.
-
 \bibitem[Matusik et~al.(2008)Matusik, George, and Heeley]{matusik2008values}
 S.~F. Matusik, J.~M. George, and M.~B. Heeley.
 \newblock Values and judgment under uncertainty: evidence from venture
@@ -443,13 +452,6 @@ M.~Sako, M.~Qian, M.~Verhagen, and R.~Parnham.
   ecosystems compared.
 \newblock \emph{Available at SSRN 3520533}, 2020.
 
-\bibitem[Sarto and Saggese(2022)]{sarto2022board}
-F.~Sarto and S.~Saggese.
-\newblock Board industry expertise and innovation input: Evidence on the
-  curvilinear relationship and the moderating effect of ceo.
-\newblock \emph{European Journal of Innovation Management}, 25\penalty0
-  (6):\penalty0 775--803, 2022.
-
 \bibitem[Seabold and Perktold(2010)]{seabold2010statsmodels}
 S.~Seabold and J.~Perktold.
 \newblock statsmodels: Econometric and statistical modeling with python.
@@ -504,19 +506,18 @@ H.~C. Subramanian, V.~Venkataraman, and H.~Jiang.
 \newblock In \emph{Academy of Management Proceedings}, volume 2022, page 17128.
   Academy of Management Briarcliff Manor, NY 10510, 2022.
 
+\bibitem[Sundermeier and Mahlert(2022)]{sundermeier2022entrepreneurial}
+J.~Sundermeier and N.~Mahlert.
+\newblock Entrepreneurial team diversity--a systematic review and research
+  agenda.
+\newblock \emph{European Management Journal}, 2022.
+
 \bibitem[Townsend and Busenitz(2015)]{townsend2015turning}
 D.~M. Townsend and L.~W. Busenitz.
 \newblock Turning water into wine? exploring the role of dynamic capabilities
   in early-stage capitalization processes.
 \newblock \emph{Journal of Business Venturing}, 30\penalty0 (2):\penalty0
   292--306, 2015.
-
-\bibitem[Unger et~al.(2011)Unger, Raugrch, Frese, and
-  Rosenbusch]{unger2011human}
-J.~M. Unger, A.~Raugrch, M.~Frese, and N.~Rosenbusch.
-\newblock Human capital and entrepreneurial success: A meta-analytical review.
-\newblock \emph{Journal of business venturing}, 26\penalty0 (3):\penalty0
-  341--358, 2011.
 
 \bibitem[Williamsky(1998)]{williamsky1998demographyand}
 O.~Williamsky.
