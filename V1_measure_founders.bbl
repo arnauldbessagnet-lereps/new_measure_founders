@@ -1,4 +1,4 @@
-\begin{thebibliography}{79}
+\begin{thebibliography}{89}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -127,6 +127,14 @@ B.~L. Connelly, S.~T. Certo, R.~D. Ireland, and C.~R. Reutzel.
 \newblock Signaling theory: A review and assessment.
 \newblock \emph{Journal of management}, 37\penalty0 (1):\penalty0 39--67, 2011.
 
+\bibitem[Constantinov et~al.(2015)Constantinov, Popescu, Potera{\c{s}}, and
+  Mocanu]{constantinov2015preliminary}
+C.~Constantinov, P.~{\c{S}}. Popescu, C.~M. Potera{\c{s}}, and M.~L. Mocanu.
+\newblock Preliminary results of a curriculum adjuster based on professional
+  network analysis.
+\newblock In \emph{2015 19th International Conference on System Theory, Control
+  and Computing (ICSTCC)}, pages 860--865. IEEE, 2015.
+
 \bibitem[Cooper et~al.(1994)Cooper, Gimeno-Gascon, and Woo]{cooper1994initial}
 A.~C. Cooper, F.~J. Gimeno-Gascon, and C.~Y. Woo.
 \newblock Initial human and financial capital as predictors of new venture
@@ -157,6 +165,14 @@ M.~C. D{\'\i}az-Fern{\'a}ndez, M.~R. Gonz{\'a}lez-Rodr{\'\i}guez, and
 \newblock \emph{European Management Journal}, 38\penalty0 (1):\penalty0
   157--168, 2020.
 
+\bibitem[Drakopoulos et~al.(2020)Drakopoulos, Kafeza, Mylonas, and
+  Al~Katheeri]{drakopoulos2020building}
+G.~Drakopoulos, E.~Kafeza, P.~Mylonas, and H.~Al~Katheeri.
+\newblock Building trusted startup teams from linkedin attributes: A higher
+  order probabilistic analysis.
+\newblock In \emph{2020 IEEE 32nd International Conference on Tools with
+  Artificial Intelligence (ICTAI)}, pages 867--874. IEEE, 2020.
+
 \bibitem[Drover et~al.(2017)Drover, Busenitz, Matusik, Townsend, Anglin, and
   Dushnitsky]{drover2017review}
 W.~Drover, L.~Busenitz, S.~Matusik, D.~Townsend, A.~Anglin, and G.~Dushnitsky.
@@ -179,6 +195,13 @@ K.~M. Eisenhardt and C.~B. Schoonhoven.
 \newblock Organizational growth: Linking founding team, strategy, environment,
   and growth among us semiconductor ventures, 1978-1988.
 \newblock \emph{Administrative science quarterly}, pages 504--529, 1990.
+
+\bibitem[Errico et~al.(2023)Errico, Messeni~Petruzzelli, Panniello, and
+  Scialpi]{errico2023source}
+F.~Errico, A.~Messeni~Petruzzelli, U.~Panniello, and A.~Scialpi.
+\newblock Source of funding and specialized competences: the impact on the
+  innovative performance of start-ups.
+\newblock \emph{Journal of Knowledge Management}, 2023.
 
 \bibitem[European-Commission(2015)]{EUcommission2015digital}
 European-Commission.
@@ -287,6 +310,12 @@ L.~Jin, K.~Madison, N.~D. Kraiczy, F.~W. Kellermanns, T.~R. Crook, and J.~Xi.
 \newblock \emph{Entrepreneurship Theory and Practice}, 41\penalty0
   (5):\penalty0 743--771, 2017.
 
+\bibitem[Jung et~al.(2017)Jung, Vissa, and Pich]{jung2017entrepreneurial}
+H.~Jung, B.~Vissa, and M.~Pich.
+\newblock How do entrepreneurial founding teams allocate task positions?
+\newblock \emph{Academy of Management Journal}, 60\penalty0 (1):\penalty0
+  264--294, 2017.
+
 \bibitem[Kaplan et~al.(2009)Kaplan, Sensoy, and
   Str{\"o}mberg]{kaplan2009should}
 S.~N. Kaplan, B.~A. Sensoy, and P.~Str{\"o}mberg.
@@ -301,6 +330,13 @@ N.~Kaushal, R.~P.~S. Kaurav, B.~Sivathanu, and N.~Kaushik.
 \newblock Artificial intelligence and hrm: identifying future research agenda
   using systematic literature review and bibliometric analysis.
 \newblock \emph{Management Review Quarterly}, pages 1--39, 2021.
+
+\bibitem[Kirschenhofer and Lechner(2012)]{kirschenhofer2012performance}
+F.~Kirschenhofer and C.~Lechner.
+\newblock Performance drivers of serial entrepreneurs: Entrepreneurial and team
+  experience.
+\newblock \emph{International Journal of Entrepreneurial Behavior \& Research},
+  18\penalty0 (3):\penalty0 305--329, 2012.
 
 \bibitem[Kirtley and O'Mahony(2020)]{kirtley2020pivot}
 J.~Kirtley and S.~O'Mahony.
@@ -418,6 +454,11 @@ L.~A. Plummer, T.~H. Allison, and B.~L. Connelly.
 \newblock \emph{Academy of Management Journal}, 59\penalty0 (5):\penalty0
   1585--1604, 2016.
 
+\bibitem[Ponte et~al.(2022)Ponte, M{\'e}ndez-Zorrilla, and Ruiz]{ponte2022use}
+M.~C.~U. Ponte, A.~M{\'e}ndez-Zorrilla, and I.~O. Ruiz.
+\newblock Use of linkedin endorsements in recommender systems.
+\newblock \emph{Education and New Developments}, 115, 2022.
+
 \bibitem[Rapanta and Cantoni(2017)]{rapanta2017linkedin}
 C.~Rapanta and L.~Cantoni.
 \newblock The linkedin endorsement game: Why and how professionals attribute
@@ -519,6 +560,21 @@ D.~M. Townsend and L.~W. Busenitz.
 \newblock \emph{Journal of Business Venturing}, 30\penalty0 (2):\penalty0
   292--306, 2015.
 
+\bibitem[Urdaneta-Ponte et~al.(2021)Urdaneta-Ponte, M{\'e}ndez-Zorrilla, and
+  Oleagordia-Ruiz]{urdaneta2021lifelong}
+M.~C. Urdaneta-Ponte, A.~M{\'e}ndez-Zorrilla, and I.~Oleagordia-Ruiz.
+\newblock Lifelong learning courses recommendation system to improve
+  professional skills using ontology and machine learning.
+\newblock \emph{Applied Sciences}, 11\penalty0 (9):\penalty0 3839, 2021.
+
+\bibitem[Villani et~al.(2018)Villani, Linder, and
+  Lechner]{villani2018entrepreneurial}
+E.~Villani, C.~Linder, and C.~Lechner.
+\newblock Entrepreneurial team composition and strategic choice: A
+  configurational analysis.
+\newblock In \emph{Academy of Management Proceedings}, volume 2018, page 13498.
+  Academy of Management Briarcliff Manor, NY 10510, 2018.
+
 \bibitem[Williamsky(1998)]{williamsky1998demographyand}
 O.~Williamsky.
 \newblock Demography and diversity in organizations: A review of 40 years of
@@ -532,5 +588,19 @@ Y.~Wu, N.~Dhakal, D.~Xu, and J.-H. Cho.
   linkedin.
 \newblock In \emph{2018 IEEE 42nd Annual Computer Software and Applications
   Conference (COMPSAC)}, volume~1, pages 461--470. IEEE, 2018.
+
+\bibitem[Yan et~al.(2019)Yan, Yang, Obukhov, Zhu, Bai, Wu, and
+  He]{yan2019social}
+X.~Yan, J.~Yang, M.~Obukhov, L.~Zhu, J.~Bai, S.~Wu, and Q.~He.
+\newblock Social skill validation at linkedin.
+\newblock In \emph{Proceedings of the 25th ACM SIGKDD International Conference
+  on Knowledge Discovery \& Data Mining}, pages 2943--2951, 2019.
+
+\bibitem[Zhou and Rosini(2015)]{zhou2015entrepreneurial}
+W.~Zhou and E.~Rosini.
+\newblock Entrepreneurial team diversity and performance: Toward an integrated
+  model.
+\newblock \emph{Entrepreneurship Research Journal}, 5\penalty0 (1):\penalty0
+  31--60, 2015.
 
 \end{thebibliography}

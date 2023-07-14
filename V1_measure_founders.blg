@@ -8,45 +8,46 @@ Warning--empty journal in audretsch2001linking
 Warning--empty journal in ghassemiautomated
 Warning--there's a number but no series in spence1974market
 Warning--can't use both volume and number fields in subramanian2022backing
-You've used 79 entries,
+Warning--can't use both volume and number fields in villani2018entrepreneurial
+You've used 89 entries,
             2773 wiz_defined-function locations,
-            1032 strings with 18979 characters,
-and the built_in function-call counts, 36655 in all, are:
-= -- 3369
-> -- 1920
-< -- 58
-+ -- 652
-- -- 573
-* -- 3027
-:= -- 5562
-add.period$ -- 241
-call.type$ -- 79
-change.case$ -- 424
-chr.to.int$ -- 79
-cite$ -- 163
-duplicate$ -- 1674
-empty$ -- 3103
-format.name$ -- 710
-if$ -- 7668
+            1085 strings with 21273 characters,
+and the built_in function-call counts, 42226 in all, are:
+= -- 3875
+> -- 2265
+< -- 65
++ -- 767
+- -- 678
+* -- 3489
+:= -- 6381
+add.period$ -- 274
+call.type$ -- 89
+change.case$ -- 489
+chr.to.int$ -- 89
+cite$ -- 184
+duplicate$ -- 1932
+empty$ -- 3534
+format.name$ -- 829
+if$ -- 8868
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 83
-newline$ -- 403
-num.names$ -- 316
-pop$ -- 782
+missing$ -- 93
+newline$ -- 453
+num.names$ -- 356
+pop$ -- 913
 preamble$ -- 1
-purify$ -- 349
+purify$ -- 404
 quote$ -- 0
-skip$ -- 1267
+skip$ -- 1479
 stack$ -- 0
-substring$ -- 1747
-swap$ -- 141
-text.length$ -- 11
+substring$ -- 1962
+swap$ -- 197
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 849
-warning$ -- 5
-while$ -- 372
+type$ -- 959
+warning$ -- 6
+while$ -- 419
 width$ -- 0
-write$ -- 1025
-(There were 5 warnings)
+write$ -- 1158
+(There were 6 warnings)
