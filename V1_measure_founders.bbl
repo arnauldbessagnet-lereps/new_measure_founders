@@ -1,4 +1,4 @@
-\begin{thebibliography}{89}
+\begin{thebibliography}{92}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -230,6 +230,13 @@ N.~Franke, M.~Gruber, D.~Harhoff, and J.~Henkel.
 \newblock \emph{Entrepreneurship Theory and Practice}, 32\penalty0
   (3):\penalty0 459--483, 2008.
 
+\bibitem[Fuentelsaz et~al.(2023)Fuentelsaz, Gonz{\'a}lez, and
+  Mickiewicz]{fuentelsaz2023entrepreneurial}
+L.~Fuentelsaz, C.~Gonz{\'a}lez, and T.~Mickiewicz.
+\newblock Entrepreneurial growth aspirations at re-entry after failure.
+\newblock \emph{International Journal of Entrepreneurial Behavior \& Research},
+  29\penalty0 (2):\penalty0 297--327, 2023.
+
 \bibitem[Gasiorowski and Lee(2022)]{gasiorowski2022pay}
 L.~Gasiorowski and A.~Lee.
 \newblock Pay attention to me! the role of endorsements, patents, gender and
@@ -242,6 +249,13 @@ M.~M. Ghassemi, C.~Song, and T.~Alhanai.
 \newblock The automated venture capitalist: Data and methods to predict the
   fate of startup ventures.
 \newblock 2015.
+
+\bibitem[Harrer and Owen(2022)]{harrer2022reducing}
+T.~Harrer and R.~Owen.
+\newblock Reducing early-stage cleantech funding gaps: an exploration of the
+  role of environmental performance indicators.
+\newblock \emph{International Journal of Entrepreneurial Behavior \& Research},
+  28\penalty0 (9):\penalty0 268--288, 2022.
 
 \bibitem[Harrison and Klein(2007)]{harrison2007s}
 D.~A. Harrison and K.~J. Klein.
@@ -588,6 +602,14 @@ Y.~Wu, N.~Dhakal, D.~Xu, and J.-H. Cho.
   linkedin.
 \newblock In \emph{2018 IEEE 42nd Annual Computer Software and Applications
   Conference (COMPSAC)}, volume~1, pages 461--470. IEEE, 2018.
+
+\bibitem[Wu et~al.(2023)Wu, Maas, Zhang, Chen, Xia, Fernandes, and
+  Tian]{wu2023secrets}
+Y.~Wu, G.~Maas, Y.~Zhang, F.~Chen, S.~Xia, K.~Fernandes, and K.~Tian.
+\newblock The secrets to successful entrepreneurship: how occupational
+  experience shapes the creation and performance of start-ups.
+\newblock \emph{International Journal of Entrepreneurial Behavior \& Research},
+  29\penalty0 (2):\penalty0 354--384, 2023.
 
 \bibitem[Yan et~al.(2019)Yan, Yang, Obukhov, Zhu, Bai, Wu, and
   He]{yan2019social}
